@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<scriptures book="Book of Mormon">
+	<book name="1 Nephi" chapter="Ch. 1">
+		<verse number="V. 1" 
+		text="I, Nephi, having been born of goodly parents, therefore I was taught somewhat in all the learning of my father; and having seen many afflictions in the course of my days, nevertheless, having been highly favored of the Lord in all my days; yea, having had a great knowledge of the goodness and the mysteries of God, therefore I make a record of my proceedings in my days." />
+	</book>
+	<book name="2 Nephi" chapter="Ch. 2">
+		<verse number="V. 25" 
+		text="Adam fell that men might be; and men are, that they might have joy." />
+		<verse number="V. 27"
+		text="Wherefore, men are free according to the flesh; and all things are given them which are expedient unto man. And they are free to choose liberty and eternal life, through the great Mediator of all men, or to choose captivity and death, according to the captivity and power of the devil; for he seeketh that all men might be miserable like unto himself." />
+	</book>
+	<book name="James" chapter="Ch. 1">
+		<verse number="V. 5"
+		text="If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him." />
+	</book>
+	<book name="Moroni" chapter="Ch. 10">
+		<verse number = "V. 4" 
+		text="And when ye shall receive these things, I would exhort you that ye would ask God, the Eternal Father, in the name of Christ, if these things are not true; and if ye shall ask with a sincere heart, with real intent, having faith in Christ, he will manifest the truth of it unto you, by the power of the Holy Ghost." />
+	</book>
+</scriptures>
