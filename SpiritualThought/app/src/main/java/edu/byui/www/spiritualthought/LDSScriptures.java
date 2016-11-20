@@ -20,7 +20,7 @@ public class LDSScriptures {
 
     public String[] scriptureVerses() throws IOException
     {
-        String url = "https://www.lds.org/scriptures/ot/zeph/1?lang=eng";
+        String url = "https://www.lds.org/scriptures/bofm/1-ne/1?lang=eng";
         Document doc = Jsoup.connect(url).get();
 
         String verse;
