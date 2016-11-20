@@ -9,15 +9,20 @@ import android.widget.Button;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
+import java.io.IOException;
 import java.util.Random;
 
 public class RandomScriptureActivity extends AppCompatActivity {
+    public RandomScriptureActivity() throws IOException {
+    }
     private ScriptureRef mScriptureRef = new ScriptureRef();
     private ColorWheel mColorWheel = new ColorWheel();
     // Declare our view variables
     private TextView mScriptureTextView;
     private Button mShowScriptureButton;
     private RelativeLayout mRelativeLayout;
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

@@ -1,21 +1,14 @@
-package matthewmcguff.randomscripture;
-import android.util.Log;
+package edu.byui.www.spiritualthought;
 
 import java.io.IOException;
-import org.jsoup.nodes.Document;
-import org.jsoup.select.Elements;
-import org.jsoup.Jsoup;
-
 import java.util.Random;
 
 public class ScriptureRef {
-    private String url;
-    private String[] mScriptures;
+    private LDSScriptures verses = new LDSScriptures();
 
-    private Document doc;
+    private String[] mScriptures = verses.scriptureVerses();
 
-    public ScriptureRef() throws IOException{
-        setScriptureArray();
+    public ScriptureRef() throws IOException {
     }
     //fields (member variables)
     /*private String[] mScriptures = {
@@ -30,27 +23,6 @@ public class ScriptureRef {
             "...When thou are converted, strengthen thy brethren",
             "Thy will be done." };
 */
-
-
-    public void setScriptureArray() {
-        try {
-            url = "https://www.lds.org/scriptures/bofm/1-ne/1?lang=eng";
-
-            doc = Jsoup.connect(url).get();
-        } catch(IOException e){e.printStackTrace();}
-
-        Elements eScripture = doc.getElementsByTag("p");
-
-        String book = (eScripture.toString());
-
-
-        String[] vScriptures = book.split("\n");
-        mScriptures = vScriptures;
-
-        for (String script : vScriptures) {
-            Log.i("Jsoup", script);
-        }
-    }
 
     //Methods - actions the object can take
     public String getScripture(){
