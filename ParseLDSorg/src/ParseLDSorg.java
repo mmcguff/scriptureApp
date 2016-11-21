@@ -12,9 +12,20 @@ import org.jsoup.Jsoup;
  * @author Julian
  */
 public class ParseLDSorg {
-    public static void main (String[] args) throws IOException{
+    public static void main (String[] args) throws IOException {
         
-        String url = "https://www.lds.org/scriptures/ot/zeph/1?lang=eng";
+        ParseGospelLibrary pgl = new ParseGospelLibrary();
+        
+        String[] lib = pgl.getLibrary();
+        String url = "https://www.lds.org/scriptures/" 
+                   + lib[0] 
+                   + "/" 
+                   + lib[1]
+                   + "/"
+                   + lib[3]
+                   + "?lang=eng";
+        
+        //String url = "https://www.lds.org/scriptures/ot/zeph/1?lang=eng";
         Document doc = Jsoup.connect(url).get();
         String verse;
         
@@ -34,7 +45,7 @@ public class ParseLDSorg {
         }
         for(int j = 0; j < verses.length; j++)
         {
-            System.out.println(j+1 + " " + verses[j]);
+            System.out.println(j+1 + ". " + verses[j]);
         }
     }
 }

@@ -20,7 +20,17 @@ public class LDSScriptures {
 
     public String[] scriptureVerses() throws IOException
     {
-        String url = "https://www.lds.org/scriptures/bofm/1-ne/1?lang=eng";
+        GospelLibrary gl = new GospelLibrary();
+
+        String[] lib = gl.getLibrary();
+        String url = "https://www.lds.org/scriptures/"
+                + lib[0]
+                + "/"
+                + lib[1]
+                + "/"
+                + lib[3]
+                + "?lang=eng";
+        //String url = "https://www.lds.org/scriptures/bofm/1-ne/1?lang=eng";
         Document doc = Jsoup.connect(url).get();
 
         String verse;
@@ -37,7 +47,7 @@ public class LDSScriptures {
         for (int i = 0; i < verses.length; i++) {
             verse = verses[i];
             verse = verse.substring((verse.indexOf("<p class=\"\"") + 12), verse.indexOf("</p>"));
-            verses[i] = verse;
+            verses[i] = lib[2] + " " + lib[3] + ":" + (i+1) + "\n" + verse;
         }
         return verses;
     }
