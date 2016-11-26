@@ -1,0 +1,1595 @@
+<?xml version="1.0"?>
+<scripture>
+   <book id="ot" name="Old Testament">
+      <gospel id="1" name="Genesis" shortname="gen" chapter="1" />
+      <gospel id="2" name="Genesis" shortname="gen" chapter="2" />
+      <gospel id="3" name="Genesis" shortname="gen" chapter="3" />
+      <gospel id="4" name="Genesis" shortname="gen" chapter="4" />
+      <gospel id="5" name="Genesis" shortname="gen" chapter="5" />
+      <gospel id="6" name="Genesis" shortname="gen" chapter="6" />
+      <gospel id="7" name="Genesis" shortname="gen" chapter="7" />
+      <gospel id="8" name="Genesis" shortname="gen" chapter="8" />
+      <gospel id="9" name="Genesis" shortname="gen" chapter="9" />
+      <gospel id="10" name="Genesis" shortname="gen" chapter="10" />
+      <gospel id="11" name="Genesis" shortname="gen" chapter="11" />
+      <gospel id="12" name="Genesis" shortname="gen" chapter="12" />
+      <gospel id="13" name="Genesis" shortname="gen" chapter="13" />
+      <gospel id="14" name="Genesis" shortname="gen" chapter="14" />
+      <gospel id="15" name="Genesis" shortname="gen" chapter="15" />
+      <gospel id="16" name="Genesis" shortname="gen" chapter="16" />
+      <gospel id="17" name="Genesis" shortname="gen" chapter="17" />
+      <gospel id="18" name="Genesis" shortname="gen" chapter="18" />
+      <gospel id="19" name="Genesis" shortname="gen" chapter="19" />
+      <gospel id="20" name="Genesis" shortname="gen" chapter="20" />
+      <gospel id="21" name="Genesis" shortname="gen" chapter="21" />
+      <gospel id="22" name="Genesis" shortname="gen" chapter="22" />
+      <gospel id="23" name="Genesis" shortname="gen" chapter="23" />
+      <gospel id="24" name="Genesis" shortname="gen" chapter="24" />
+      <gospel id="25" name="Genesis" shortname="gen" chapter="25" />
+      <gospel id="26" name="Genesis" shortname="gen" chapter="26" />
+      <gospel id="27" name="Genesis" shortname="gen" chapter="27" />
+      <gospel id="28" name="Genesis" shortname="gen" chapter="28" />
+      <gospel id="29" name="Genesis" shortname="gen" chapter="29" />
+      <gospel id="30" name="Genesis" shortname="gen" chapter="30" />
+      <gospel id="31" name="Genesis" shortname="gen" chapter="31" />
+      <gospel id="32" name="Genesis" shortname="gen" chapter="32" />
+      <gospel id="33" name="Genesis" shortname="gen" chapter="33" />
+      <gospel id="34" name="Genesis" shortname="gen" chapter="34" />
+      <gospel id="35" name="Genesis" shortname="gen" chapter="35" />
+      <gospel id="36" name="Genesis" shortname="gen" chapter="36" />
+      <gospel id="37" name="Genesis" shortname="gen" chapter="37" />
+      <gospel id="38" name="Genesis" shortname="gen" chapter="38" />
+      <gospel id="39" name="Genesis" shortname="gen" chapter="39" />
+      <gospel id="40" name="Genesis" shortname="gen" chapter="40" />
+      <gospel id="41" name="Genesis" shortname="gen" chapter="41" />
+      <gospel id="42" name="Genesis" shortname="gen" chapter="42" />
+      <gospel id="43" name="Genesis" shortname="gen" chapter="43" />
+      <gospel id="44" name="Genesis" shortname="gen" chapter="44" />
+      <gospel id="45" name="Genesis" shortname="gen" chapter="45" />
+      <gospel id="46" name="Genesis" shortname="gen" chapter="46" />
+      <gospel id="47" name="Genesis" shortname="gen" chapter="47" />
+      <gospel id="48" name="Genesis" shortname="gen" chapter="48" />
+      <gospel id="49" name="Genesis" shortname="gen" chapter="49" />
+      <gospel id="50" name="Genesis" shortname="gen" chapter="50" />
+      <gospel id="51" name="Exodus" shortname="ex" chapter="1" />
+      <gospel id="52" name="Exodus" shortname="ex" chapter="2" />
+      <gospel id="53" name="Exodus" shortname="ex" chapter="3" />
+      <gospel id="54" name="Exodus" shortname="ex" chapter="4" />
+      <gospel id="55" name="Exodus" shortname="ex" chapter="5" />
+      <gospel id="56" name="Exodus" shortname="ex" chapter="6" />
+      <gospel id="57" name="Exodus" shortname="ex" chapter="7" />
+      <gospel id="58" name="Exodus" shortname="ex" chapter="8" />
+      <gospel id="59" name="Exodus" shortname="ex" chapter="9" />
+      <gospel id="60" name="Exodus" shortname="ex" chapter="10" />
+      <gospel id="61" name="Exodus" shortname="ex" chapter="11" />
+      <gospel id="62" name="Exodus" shortname="ex" chapter="12" />
+      <gospel id="63" name="Exodus" shortname="ex" chapter="13" />
+      <gospel id="64" name="Exodus" shortname="ex" chapter="14" />
+      <gospel id="65" name="Exodus" shortname="ex" chapter="15" />
+      <gospel id="66" name="Exodus" shortname="ex" chapter="16" />
+      <gospel id="67" name="Exodus" shortname="ex" chapter="17" />
+      <gospel id="68" name="Exodus" shortname="ex" chapter="18" />
+      <gospel id="69" name="Exodus" shortname="ex" chapter="19" />
+      <gospel id="70" name="Exodus" shortname="ex" chapter="20" />
+      <gospel id="71" name="Exodus" shortname="ex" chapter="21" />
+      <gospel id="72" name="Exodus" shortname="ex" chapter="22" />
+      <gospel id="73" name="Exodus" shortname="ex" chapter="23" />
+      <gospel id="74" name="Exodus" shortname="ex" chapter="24" />
+      <gospel id="75" name="Exodus" shortname="ex" chapter="25" />
+      <gospel id="76" name="Exodus" shortname="ex" chapter="26" />
+      <gospel id="77" name="Exodus" shortname="ex" chapter="27" />
+      <gospel id="78" name="Exodus" shortname="ex" chapter="28" />
+      <gospel id="79" name="Exodus" shortname="ex" chapter="29" />
+      <gospel id="80" name="Exodus" shortname="ex" chapter="30" />
+      <gospel id="81" name="Exodus" shortname="ex" chapter="31" />
+      <gospel id="82" name="Exodus" shortname="ex" chapter="32" />
+      <gospel id="83" name="Exodus" shortname="ex" chapter="33" />
+      <gospel id="84" name="Exodus" shortname="ex" chapter="34" />
+      <gospel id="85" name="Exodus" shortname="ex" chapter="35" />
+      <gospel id="86" name="Exodus" shortname="ex" chapter="36" />
+      <gospel id="87" name="Exodus" shortname="ex" chapter="37" />
+      <gospel id="88" name="Exodus" shortname="ex" chapter="38" />
+      <gospel id="89" name="Exodus" shortname="ex" chapter="39" />
+      <gospel id="90" name="Exodus" shortname="ex" chapter="40" />
+      <gospel id="91" name="Leviticus" shortname="lev" chapter="1" />
+      <gospel id="92" name="Leviticus" shortname="lev" chapter="2" />
+      <gospel id="93" name="Leviticus" shortname="lev" chapter="3" />
+      <gospel id="94" name="Leviticus" shortname="lev" chapter="4" />
+      <gospel id="95" name="Leviticus" shortname="lev" chapter="5" />
+      <gospel id="96" name="Leviticus" shortname="lev" chapter="6" />
+      <gospel id="97" name="Leviticus" shortname="lev" chapter="7" />
+      <gospel id="98" name="Leviticus" shortname="lev" chapter="8" />
+      <gospel id="99" name="Leviticus" shortname="lev" chapter="9" />
+      <gospel id="100" name="Leviticus" shortname="lev" chapter="10" />
+      <gospel id="101" name="Leviticus" shortname="lev" chapter="11" />
+      <gospel id="102" name="Leviticus" shortname="lev" chapter="12" />
+      <gospel id="103" name="Leviticus" shortname="lev" chapter="13" />
+      <gospel id="104" name="Leviticus" shortname="lev" chapter="14" />
+      <gospel id="105" name="Leviticus" shortname="lev" chapter="15" />
+      <gospel id="106" name="Leviticus" shortname="lev" chapter="16" />
+      <gospel id="107" name="Leviticus" shortname="lev" chapter="17" />
+      <gospel id="108" name="Leviticus" shortname="lev" chapter="18" />
+      <gospel id="109" name="Leviticus" shortname="lev" chapter="19" />
+      <gospel id="110" name="Leviticus" shortname="lev" chapter="20" />
+      <gospel id="111" name="Leviticus" shortname="lev" chapter="21" />
+      <gospel id="112" name="Leviticus" shortname="lev" chapter="22" />
+      <gospel id="113" name="Leviticus" shortname="lev" chapter="23" />
+      <gospel id="114" name="Leviticus" shortname="lev" chapter="24" />
+      <gospel id="115" name="Leviticus" shortname="lev" chapter="25" />
+      <gospel id="116" name="Leviticus" shortname="lev" chapter="26" />
+      <gospel id="117" name="Leviticus" shortname="lev" chapter="27" />
+      <gospel id="118" name="Numbers" shortname="num" chapter="1" />
+      <gospel id="119" name="Numbers" shortname="num" chapter="2" />
+      <gospel id="120" name="Numbers" shortname="num" chapter="3" />
+      <gospel id="121" name="Numbers" shortname="num" chapter="4" />
+      <gospel id="122" name="Numbers" shortname="num" chapter="5" />
+      <gospel id="123" name="Numbers" shortname="num" chapter="6" />
+      <gospel id="124" name="Numbers" shortname="num" chapter="7" />
+      <gospel id="125" name="Numbers" shortname="num" chapter="8" />
+      <gospel id="126" name="Numbers" shortname="num" chapter="9" />
+      <gospel id="127" name="Numbers" shortname="num" chapter="10" />
+      <gospel id="128" name="Numbers" shortname="num" chapter="11" />
+      <gospel id="129" name="Numbers" shortname="num" chapter="12" />
+      <gospel id="130" name="Numbers" shortname="num" chapter="13" />
+      <gospel id="131" name="Numbers" shortname="num" chapter="14" />
+      <gospel id="132" name="Numbers" shortname="num" chapter="15" />
+      <gospel id="133" name="Numbers" shortname="num" chapter="16" />
+      <gospel id="134" name="Numbers" shortname="num" chapter="17" />
+      <gospel id="135" name="Numbers" shortname="num" chapter="18" />
+      <gospel id="136" name="Numbers" shortname="num" chapter="19" />
+      <gospel id="137" name="Numbers" shortname="num" chapter="20" />
+      <gospel id="138" name="Numbers" shortname="num" chapter="21" />
+      <gospel id="139" name="Numbers" shortname="num" chapter="22" />
+      <gospel id="140" name="Numbers" shortname="num" chapter="23" />
+      <gospel id="141" name="Numbers" shortname="num" chapter="24" />
+      <gospel id="142" name="Numbers" shortname="num" chapter="25" />
+      <gospel id="143" name="Numbers" shortname="num" chapter="26" />
+      <gospel id="144" name="Numbers" shortname="num" chapter="27" />
+      <gospel id="145" name="Numbers" shortname="num" chapter="28" />
+      <gospel id="146" name="Numbers" shortname="num" chapter="29" />
+      <gospel id="147" name="Numbers" shortname="num" chapter="30" />
+      <gospel id="148" name="Numbers" shortname="num" chapter="31" />
+      <gospel id="149" name="Numbers" shortname="num" chapter="32" />
+      <gospel id="150" name="Numbers" shortname="num" chapter="33" />
+      <gospel id="151" name="Numbers" shortname="num" chapter="34" />
+      <gospel id="152" name="Numbers" shortname="num" chapter="35" />
+      <gospel id="153" name="Numbers" shortname="num" chapter="36" />
+      <gospel id="154" name="Deuteronomy" shortname="deut" chapter="1" />
+      <gospel id="155" name="Deuteronomy" shortname="deut" chapter="2" />
+      <gospel id="156" name="Deuteronomy" shortname="deut" chapter="3" />
+      <gospel id="157" name="Deuteronomy" shortname="deut" chapter="4" />
+      <gospel id="158" name="Deuteronomy" shortname="deut" chapter="5" />
+      <gospel id="159" name="Deuteronomy" shortname="deut" chapter="6" />
+      <gospel id="160" name="Deuteronomy" shortname="deut" chapter="7" />
+      <gospel id="161" name="Deuteronomy" shortname="deut" chapter="8" />
+      <gospel id="162" name="Deuteronomy" shortname="deut" chapter="9" />
+      <gospel id="163" name="Deuteronomy" shortname="deut" chapter="10" />
+      <gospel id="164" name="Deuteronomy" shortname="deut" chapter="11" />
+      <gospel id="165" name="Deuteronomy" shortname="deut" chapter="12" />
+      <gospel id="166" name="Deuteronomy" shortname="deut" chapter="13" />
+      <gospel id="167" name="Deuteronomy" shortname="deut" chapter="14" />
+      <gospel id="168" name="Deuteronomy" shortname="deut" chapter="15" />
+      <gospel id="169" name="Deuteronomy" shortname="deut" chapter="16" />
+      <gospel id="170" name="Deuteronomy" shortname="deut" chapter="17" />
+      <gospel id="171" name="Deuteronomy" shortname="deut" chapter="18" />
+      <gospel id="172" name="Deuteronomy" shortname="deut" chapter="19" />
+      <gospel id="173" name="Deuteronomy" shortname="deut" chapter="20" />
+      <gospel id="174" name="Deuteronomy" shortname="deut" chapter="21" />
+      <gospel id="175" name="Deuteronomy" shortname="deut" chapter="22" />
+      <gospel id="176" name="Deuteronomy" shortname="deut" chapter="23" />
+      <gospel id="177" name="Deuteronomy" shortname="deut" chapter="24" />
+      <gospel id="178" name="Deuteronomy" shortname="deut" chapter="25" />
+      <gospel id="179" name="Deuteronomy" shortname="deut" chapter="26" />
+      <gospel id="180" name="Deuteronomy" shortname="deut" chapter="27" />
+      <gospel id="181" name="Deuteronomy" shortname="deut" chapter="28" />
+      <gospel id="182" name="Deuteronomy" shortname="deut" chapter="29" />
+      <gospel id="183" name="Deuteronomy" shortname="deut" chapter="30" />
+      <gospel id="184" name="Deuteronomy" shortname="deut" chapter="31" />
+      <gospel id="185" name="Deuteronomy" shortname="deut" chapter="32" />
+      <gospel id="186" name="Deuteronomy" shortname="deut" chapter="33" />
+      <gospel id="187" name="Deuteronomy" shortname="deut" chapter="34" />
+      <gospel id="188" name="Joshua" shortname="josh" chapter="1" />
+      <gospel id="189" name="Joshua" shortname="josh" chapter="2" />
+      <gospel id="190" name="Joshua" shortname="josh" chapter="3" />
+      <gospel id="191" name="Joshua" shortname="josh" chapter="4" />
+      <gospel id="192" name="Joshua" shortname="josh" chapter="5" />
+      <gospel id="193" name="Joshua" shortname="josh" chapter="6" />
+      <gospel id="194" name="Joshua" shortname="josh" chapter="7" />
+      <gospel id="195" name="Joshua" shortname="josh" chapter="8" />
+      <gospel id="196" name="Joshua" shortname="josh" chapter="9" />
+      <gospel id="197" name="Joshua" shortname="josh" chapter="10" />
+      <gospel id="198" name="Joshua" shortname="josh" chapter="11" />
+      <gospel id="199" name="Joshua" shortname="josh" chapter="12" />
+      <gospel id="200" name="Joshua" shortname="josh" chapter="13" />
+      <gospel id="201" name="Joshua" shortname="josh" chapter="14" />
+      <gospel id="202" name="Joshua" shortname="josh" chapter="15" />
+      <gospel id="203" name="Joshua" shortname="josh" chapter="16" />
+      <gospel id="204" name="Joshua" shortname="josh" chapter="17" />
+      <gospel id="205" name="Joshua" shortname="josh" chapter="18" />
+      <gospel id="206" name="Joshua" shortname="josh" chapter="19" />
+      <gospel id="207" name="Joshua" shortname="josh" chapter="20" />
+      <gospel id="208" name="Joshua" shortname="josh" chapter="21" />
+      <gospel id="209" name="Joshua" shortname="josh" chapter="22" />
+      <gospel id="210" name="Joshua" shortname="josh" chapter="23" />
+      <gospel id="211" name="Joshua" shortname="josh" chapter="24" />
+      <gospel id="212" name="Judges" shortname="judg" chapter="1" />
+      <gospel id="213" name="Judges" shortname="judg" chapter="2" />
+      <gospel id="214" name="Judges" shortname="judg" chapter="3" />
+      <gospel id="215" name="Judges" shortname="judg" chapter="4" />
+      <gospel id="216" name="Judges" shortname="judg" chapter="5" />
+      <gospel id="217" name="Judges" shortname="judg" chapter="6" />
+      <gospel id="218" name="Judges" shortname="judg" chapter="7" />
+      <gospel id="219" name="Judges" shortname="judg" chapter="8" />
+      <gospel id="220" name="Judges" shortname="judg" chapter="9" />
+      <gospel id="221" name="Judges" shortname="judg" chapter="10" />
+      <gospel id="222" name="Judges" shortname="judg" chapter="11" />
+      <gospel id="223" name="Judges" shortname="judg" chapter="12" />
+      <gospel id="224" name="Judges" shortname="judg" chapter="13" />
+      <gospel id="225" name="Judges" shortname="judg" chapter="14" />
+      <gospel id="226" name="Judges" shortname="judg" chapter="15" />
+      <gospel id="227" name="Judges" shortname="judg" chapter="16" />
+      <gospel id="228" name="Judges" shortname="judg" chapter="17" />
+      <gospel id="229" name="Judges" shortname="judg" chapter="18" />
+      <gospel id="230" name="Judges" shortname="judg" chapter="19" />
+      <gospel id="231" name="Judges" shortname="judg" chapter="20" />
+      <gospel id="232" name="Judges" shortname="judg" chapter="21" />
+      <gospel id="233" name="Ruth" shortname="ruth" chapter="1" />
+      <gospel id="234" name="Ruth" shortname="ruth" chapter="2" />
+      <gospel id="235" name="Ruth" shortname="ruth" chapter="3" />
+      <gospel id="236" name="Ruth" shortname="ruth" chapter="4" />
+      <gospel id="237" name="1 Samuel" shortname="1-sam" chapter="1" />
+      <gospel id="238" name="1 Samuel" shortname="1-sam" chapter="2" />
+      <gospel id="239" name="1 Samuel" shortname="1-sam" chapter="3" />
+      <gospel id="240" name="1 Samuel" shortname="1-sam" chapter="4" />
+      <gospel id="241" name="1 Samuel" shortname="1-sam" chapter="5" />
+      <gospel id="242" name="1 Samuel" shortname="1-sam" chapter="6" />
+      <gospel id="243" name="1 Samuel" shortname="1-sam" chapter="7" />
+      <gospel id="244" name="1 Samuel" shortname="1-sam" chapter="8" />
+      <gospel id="245" name="1 Samuel" shortname="1-sam" chapter="9" />
+      <gospel id="246" name="1 Samuel" shortname="1-sam" chapter="10" />
+      <gospel id="247" name="1 Samuel" shortname="1-sam" chapter="11" />
+      <gospel id="248" name="1 Samuel" shortname="1-sam" chapter="12" />
+      <gospel id="249" name="1 Samuel" shortname="1-sam" chapter="13" />
+      <gospel id="250" name="1 Samuel" shortname="1-sam" chapter="14" />
+      <gospel id="251" name="1 Samuel" shortname="1-sam" chapter="15" />
+      <gospel id="252" name="1 Samuel" shortname="1-sam" chapter="16" />
+      <gospel id="253" name="1 Samuel" shortname="1-sam" chapter="17" />
+      <gospel id="254" name="1 Samuel" shortname="1-sam" chapter="18" />
+      <gospel id="255" name="1 Samuel" shortname="1-sam" chapter="19" />
+      <gospel id="256" name="1 Samuel" shortname="1-sam" chapter="20" />
+      <gospel id="257" name="1 Samuel" shortname="1-sam" chapter="21" />
+      <gospel id="258" name="1 Samuel" shortname="1-sam" chapter="22" />
+      <gospel id="259" name="1 Samuel" shortname="1-sam" chapter="23" />
+      <gospel id="260" name="1 Samuel" shortname="1-sam" chapter="24" />
+      <gospel id="261" name="1 Samuel" shortname="1-sam" chapter="25" />
+      <gospel id="262" name="1 Samuel" shortname="1-sam" chapter="26" />
+      <gospel id="263" name="1 Samuel" shortname="1-sam" chapter="27" />
+      <gospel id="264" name="1 Samuel" shortname="1-sam" chapter="28" />
+      <gospel id="265" name="1 Samuel" shortname="1-sam" chapter="29" />
+      <gospel id="266" name="1 Samuel" shortname="1-sam" chapter="30" />
+      <gospel id="267" name="1 Samuel" shortname="1-sam" chapter="31" />
+      <gospel id="268" name="2 Samuel" shortname="2-sam" chapter="1" />
+      <gospel id="269" name="2 Samuel" shortname="2-sam" chapter="2" />
+      <gospel id="270" name="2 Samuel" shortname="2-sam" chapter="3" />
+      <gospel id="271" name="2 Samuel" shortname="2-sam" chapter="4" />
+      <gospel id="272" name="2 Samuel" shortname="2-sam" chapter="5" />
+      <gospel id="273" name="2 Samuel" shortname="2-sam" chapter="6" />
+      <gospel id="274" name="2 Samuel" shortname="2-sam" chapter="7" />
+      <gospel id="275" name="2 Samuel" shortname="2-sam" chapter="8" />
+      <gospel id="276" name="2 Samuel" shortname="2-sam" chapter="9" />
+      <gospel id="277" name="2 Samuel" shortname="2-sam" chapter="10" />
+      <gospel id="278" name="2 Samuel" shortname="2-sam" chapter="11" />
+      <gospel id="279" name="2 Samuel" shortname="2-sam" chapter="12" />
+      <gospel id="280" name="2 Samuel" shortname="2-sam" chapter="13" />
+      <gospel id="281" name="2 Samuel" shortname="2-sam" chapter="14" />
+      <gospel id="282" name="2 Samuel" shortname="2-sam" chapter="15" />
+      <gospel id="283" name="2 Samuel" shortname="2-sam" chapter="16" />
+      <gospel id="284" name="2 Samuel" shortname="2-sam" chapter="17" />
+      <gospel id="285" name="2 Samuel" shortname="2-sam" chapter="18" />
+      <gospel id="286" name="2 Samuel" shortname="2-sam" chapter="19" />
+      <gospel id="287" name="2 Samuel" shortname="2-sam" chapter="20" />
+      <gospel id="288" name="2 Samuel" shortname="2-sam" chapter="21" />
+      <gospel id="289" name="2 Samuel" shortname="2-sam" chapter="22" />
+      <gospel id="290" name="2 Samuel" shortname="2-sam" chapter="23" />
+      <gospel id="291" name="2 Samuel" shortname="2-sam" chapter="24" />
+      <gospel id="292" name="1 Kings" shortname="1-kgs" chapter="1" />
+      <gospel id="293" name="1 Kings" shortname="1-kgs" chapter="2" />
+      <gospel id="294" name="1 Kings" shortname="1-kgs" chapter="3" />
+      <gospel id="295" name="1 Kings" shortname="1-kgs" chapter="4" />
+      <gospel id="296" name="1 Kings" shortname="1-kgs" chapter="5" />
+      <gospel id="297" name="1 Kings" shortname="1-kgs" chapter="6" />
+      <gospel id="298" name="1 Kings" shortname="1-kgs" chapter="7" />
+      <gospel id="299" name="1 Kings" shortname="1-kgs" chapter="8" />
+      <gospel id="300" name="1 Kings" shortname="1-kgs" chapter="9" />
+      <gospel id="301" name="1 Kings" shortname="1-kgs" chapter="10" />
+      <gospel id="302" name="1 Kings" shortname="1-kgs" chapter="11" />
+      <gospel id="303" name="1 Kings" shortname="1-kgs" chapter="12" />
+      <gospel id="304" name="1 Kings" shortname="1-kgs" chapter="13" />
+      <gospel id="305" name="1 Kings" shortname="1-kgs" chapter="14" />
+      <gospel id="306" name="1 Kings" shortname="1-kgs" chapter="15" />
+      <gospel id="307" name="1 Kings" shortname="1-kgs" chapter="16" />
+      <gospel id="308" name="1 Kings" shortname="1-kgs" chapter="17" />
+      <gospel id="309" name="1 Kings" shortname="1-kgs" chapter="18" />
+      <gospel id="310" name="1 Kings" shortname="1-kgs" chapter="19" />
+      <gospel id="311" name="1 Kings" shortname="1-kgs" chapter="20" />
+      <gospel id="312" name="1 Kings" shortname="1-kgs" chapter="21" />
+      <gospel id="313" name="1 Kings" shortname="1-kgs" chapter="22" />
+      <gospel id="314" name="2 Kings" shortname="2-kgs" chapter="1" />
+      <gospel id="315" name="2 Kings" shortname="2-kgs" chapter="2" />
+      <gospel id="316" name="2 Kings" shortname="2-kgs" chapter="3" />
+      <gospel id="317" name="2 Kings" shortname="2-kgs" chapter="4" />
+      <gospel id="318" name="2 Kings" shortname="2-kgs" chapter="5" />
+      <gospel id="319" name="2 Kings" shortname="2-kgs" chapter="6" />
+      <gospel id="320" name="2 Kings" shortname="2-kgs" chapter="7" />
+      <gospel id="321" name="2 Kings" shortname="2-kgs" chapter="8" />
+      <gospel id="322" name="2 Kings" shortname="2-kgs" chapter="9" />
+      <gospel id="323" name="2 Kings" shortname="2-kgs" chapter="10" />
+      <gospel id="324" name="2 Kings" shortname="2-kgs" chapter="11" />
+      <gospel id="325" name="2 Kings" shortname="2-kgs" chapter="12" />
+      <gospel id="326" name="2 Kings" shortname="2-kgs" chapter="13" />
+      <gospel id="327" name="2 Kings" shortname="2-kgs" chapter="14" />
+      <gospel id="328" name="2 Kings" shortname="2-kgs" chapter="15" />
+      <gospel id="329" name="2 Kings" shortname="2-kgs" chapter="16" />
+      <gospel id="330" name="2 Kings" shortname="2-kgs" chapter="17" />
+      <gospel id="331" name="2 Kings" shortname="2-kgs" chapter="18" />
+      <gospel id="332" name="2 Kings" shortname="2-kgs" chapter="19" />
+      <gospel id="333" name="2 Kings" shortname="2-kgs" chapter="20" />
+      <gospel id="334" name="2 Kings" shortname="2-kgs" chapter="21" />
+      <gospel id="335" name="2 Kings" shortname="2-kgs" chapter="22" />
+      <gospel id="336" name="2 Kings" shortname="2-kgs" chapter="23" />
+      <gospel id="337" name="2 Kings" shortname="2-kgs" chapter="24" />
+      <gospel id="338" name="2 Kings" shortname="2-kgs" chapter="25" />
+      <gospel id="339" name="1 Chronicles" shortname="1-chr" chapter="1" />
+      <gospel id="340" name="1 Chronicles" shortname="1-chr" chapter="2" />
+      <gospel id="341" name="1 Chronicles" shortname="1-chr" chapter="3" />
+      <gospel id="342" name="1 Chronicles" shortname="1-chr" chapter="4" />
+      <gospel id="343" name="1 Chronicles" shortname="1-chr" chapter="5" />
+      <gospel id="344" name="1 Chronicles" shortname="1-chr" chapter="6" />
+      <gospel id="345" name="1 Chronicles" shortname="1-chr" chapter="7" />
+      <gospel id="346" name="1 Chronicles" shortname="1-chr" chapter="8" />
+      <gospel id="347" name="1 Chronicles" shortname="1-chr" chapter="9" />
+      <gospel id="348" name="1 Chronicles" shortname="1-chr" chapter="10" />
+      <gospel id="349" name="1 Chronicles" shortname="1-chr" chapter="11" />
+      <gospel id="350" name="1 Chronicles" shortname="1-chr" chapter="12" />
+      <gospel id="351" name="1 Chronicles" shortname="1-chr" chapter="13" />
+      <gospel id="352" name="1 Chronicles" shortname="1-chr" chapter="14" />
+      <gospel id="353" name="1 Chronicles" shortname="1-chr" chapter="15" />
+      <gospel id="354" name="1 Chronicles" shortname="1-chr" chapter="16" />
+      <gospel id="355" name="1 Chronicles" shortname="1-chr" chapter="17" />
+      <gospel id="356" name="1 Chronicles" shortname="1-chr" chapter="18" />
+      <gospel id="357" name="1 Chronicles" shortname="1-chr" chapter="19" />
+      <gospel id="358" name="1 Chronicles" shortname="1-chr" chapter="20" />
+      <gospel id="359" name="1 Chronicles" shortname="1-chr" chapter="21" />
+      <gospel id="360" name="1 Chronicles" shortname="1-chr" chapter="22" />
+      <gospel id="361" name="1 Chronicles" shortname="1-chr" chapter="23" />
+      <gospel id="362" name="1 Chronicles" shortname="1-chr" chapter="24" />
+      <gospel id="363" name="1 Chronicles" shortname="1-chr" chapter="25" />
+      <gospel id="364" name="1 Chronicles" shortname="1-chr" chapter="26" />
+      <gospel id="365" name="1 Chronicles" shortname="1-chr" chapter="27" />
+      <gospel id="366" name="1 Chronicles" shortname="1-chr" chapter="28" />
+      <gospel id="367" name="1 Chronicles" shortname="1-chr" chapter="29" />
+      <gospel id="368" name="2 Chronicles" shortname="2-chr" chapter="1" />
+      <gospel id="369" name="2 Chronicles" shortname="2-chr" chapter="2" />
+      <gospel id="370" name="2 Chronicles" shortname="2-chr" chapter="3" />
+      <gospel id="371" name="2 Chronicles" shortname="2-chr" chapter="4" />
+      <gospel id="372" name="2 Chronicles" shortname="2-chr" chapter="5" />
+      <gospel id="373" name="2 Chronicles" shortname="2-chr" chapter="6" />
+      <gospel id="374" name="2 Chronicles" shortname="2-chr" chapter="7" />
+      <gospel id="375" name="2 Chronicles" shortname="2-chr" chapter="8" />
+      <gospel id="376" name="2 Chronicles" shortname="2-chr" chapter="9" />
+      <gospel id="377" name="2 Chronicles" shortname="2-chr" chapter="10" />
+      <gospel id="378" name="2 Chronicles" shortname="2-chr" chapter="11" />
+      <gospel id="379" name="2 Chronicles" shortname="2-chr" chapter="12" />
+      <gospel id="380" name="2 Chronicles" shortname="2-chr" chapter="13" />
+      <gospel id="381" name="2 Chronicles" shortname="2-chr" chapter="14" />
+      <gospel id="382" name="2 Chronicles" shortname="2-chr" chapter="15" />
+      <gospel id="383" name="2 Chronicles" shortname="2-chr" chapter="16" />
+      <gospel id="384" name="2 Chronicles" shortname="2-chr" chapter="17" />
+      <gospel id="385" name="2 Chronicles" shortname="2-chr" chapter="18" />
+      <gospel id="386" name="2 Chronicles" shortname="2-chr" chapter="19" />
+      <gospel id="387" name="2 Chronicles" shortname="2-chr" chapter="20" />
+      <gospel id="388" name="2 Chronicles" shortname="2-chr" chapter="21" />
+      <gospel id="389" name="2 Chronicles" shortname="2-chr" chapter="22" />
+      <gospel id="390" name="2 Chronicles" shortname="2-chr" chapter="23" />
+      <gospel id="391" name="2 Chronicles" shortname="2-chr" chapter="24" />
+      <gospel id="392" name="2 Chronicles" shortname="2-chr" chapter="25" />
+      <gospel id="393" name="2 Chronicles" shortname="2-chr" chapter="26" />
+      <gospel id="394" name="2 Chronicles" shortname="2-chr" chapter="27" />
+      <gospel id="395" name="2 Chronicles" shortname="2-chr" chapter="28" />
+      <gospel id="396" name="2 Chronicles" shortname="2-chr" chapter="29" />
+      <gospel id="397" name="2 Chronicles" shortname="2-chr" chapter="30" />
+      <gospel id="398" name="2 Chronicles" shortname="2-chr" chapter="31" />
+      <gospel id="399" name="2 Chronicles" shortname="2-chr" chapter="32" />
+      <gospel id="400" name="2 Chronicles" shortname="2-chr" chapter="33" />
+      <gospel id="401" name="2 Chronicles" shortname="2-chr" chapter="34" />
+      <gospel id="402" name="2 Chronicles" shortname="2-chr" chapter="35" />
+      <gospel id="403" name="2 Chronicles" shortname="2-chr" chapter="36" />
+      <gospel id="404" name="Ezra" shortname="ezra" chapter="1" />
+      <gospel id="405" name="Ezra" shortname="ezra" chapter="2" />
+      <gospel id="406" name="Ezra" shortname="ezra" chapter="3" />
+      <gospel id="407" name="Ezra" shortname="ezra" chapter="4" />
+      <gospel id="408" name="Ezra" shortname="ezra" chapter="5" />
+      <gospel id="409" name="Ezra" shortname="ezra" chapter="6" />
+      <gospel id="410" name="Ezra" shortname="ezra" chapter="7" />
+      <gospel id="411" name="Ezra" shortname="ezra" chapter="8" />
+      <gospel id="412" name="Ezra" shortname="ezra" chapter="9" />
+      <gospel id="413" name="Ezra" shortname="ezra" chapter="10" />
+      <gospel id="414" name="Nehemiah" shortname="neh" chapter="1" />
+      <gospel id="415" name="Nehemiah" shortname="neh" chapter="2" />
+      <gospel id="416" name="Nehemiah" shortname="neh" chapter="3" />
+      <gospel id="417" name="Nehemiah" shortname="neh" chapter="4" />
+      <gospel id="418" name="Nehemiah" shortname="neh" chapter="5" />
+      <gospel id="419" name="Nehemiah" shortname="neh" chapter="6" />
+      <gospel id="420" name="Nehemiah" shortname="neh" chapter="7" />
+      <gospel id="421" name="Nehemiah" shortname="neh" chapter="8" />
+      <gospel id="422" name="Nehemiah" shortname="neh" chapter="9" />
+      <gospel id="423" name="Nehemiah" shortname="neh" chapter="10" />
+      <gospel id="424" name="Nehemiah" shortname="neh" chapter="11" />
+      <gospel id="425" name="Nehemiah" shortname="neh" chapter="12" />
+      <gospel id="426" name="Nehemiah" shortname="neh" chapter="13" />
+      <gospel id="427" name="Esther" shortname="esth" chapter="1" />
+      <gospel id="428" name="Esther" shortname="esth" chapter="2" />
+      <gospel id="429" name="Esther" shortname="esth" chapter="3" />
+      <gospel id="430" name="Esther" shortname="esth" chapter="4" />
+      <gospel id="431" name="Esther" shortname="esth" chapter="5" />
+      <gospel id="432" name="Esther" shortname="esth" chapter="6" />
+      <gospel id="433" name="Esther" shortname="esth" chapter="7" />
+      <gospel id="434" name="Esther" shortname="esth" chapter="8" />
+      <gospel id="435" name="Esther" shortname="esth" chapter="9" />
+      <gospel id="436" name="Esther" shortname="esth" chapter="10" />
+      <gospel id="437" name="Job" shortname="job" chapter="1" />
+      <gospel id="438" name="Job" shortname="job" chapter="2" />
+      <gospel id="439" name="Job" shortname="job" chapter="3" />
+      <gospel id="440" name="Job" shortname="job" chapter="4" />
+      <gospel id="441" name="Job" shortname="job" chapter="5" />
+      <gospel id="442" name="Job" shortname="job" chapter="6" />
+      <gospel id="443" name="Job" shortname="job" chapter="7" />
+      <gospel id="444" name="Job" shortname="job" chapter="8" />
+      <gospel id="445" name="Job" shortname="job" chapter="9" />
+      <gospel id="446" name="Job" shortname="job" chapter="10" />
+      <gospel id="447" name="Job" shortname="job" chapter="11" />
+      <gospel id="448" name="Job" shortname="job" chapter="12" />
+      <gospel id="449" name="Job" shortname="job" chapter="13" />
+      <gospel id="450" name="Job" shortname="job" chapter="14" />
+      <gospel id="451" name="Job" shortname="job" chapter="15" />
+      <gospel id="452" name="Job" shortname="job" chapter="16" />
+      <gospel id="453" name="Job" shortname="job" chapter="17" />
+      <gospel id="454" name="Job" shortname="job" chapter="18" />
+      <gospel id="455" name="Job" shortname="job" chapter="19" />
+      <gospel id="456" name="Job" shortname="job" chapter="20" />
+      <gospel id="457" name="Job" shortname="job" chapter="21" />
+      <gospel id="458" name="Job" shortname="job" chapter="22" />
+      <gospel id="459" name="Job" shortname="job" chapter="23" />
+      <gospel id="460" name="Job" shortname="job" chapter="24" />
+      <gospel id="461" name="Job" shortname="job" chapter="25" />
+      <gospel id="462" name="Job" shortname="job" chapter="26" />
+      <gospel id="463" name="Job" shortname="job" chapter="27" />
+      <gospel id="464" name="Job" shortname="job" chapter="28" />
+      <gospel id="465" name="Job" shortname="job" chapter="29" />
+      <gospel id="466" name="Job" shortname="job" chapter="30" />
+      <gospel id="467" name="Job" shortname="job" chapter="31" />
+      <gospel id="468" name="Job" shortname="job" chapter="32" />
+      <gospel id="469" name="Job" shortname="job" chapter="33" />
+      <gospel id="470" name="Job" shortname="job" chapter="34" />
+      <gospel id="471" name="Job" shortname="job" chapter="35" />
+      <gospel id="472" name="Job" shortname="job" chapter="36" />
+      <gospel id="473" name="Job" shortname="job" chapter="37" />
+      <gospel id="474" name="Job" shortname="job" chapter="38" />
+      <gospel id="475" name="Job" shortname="job" chapter="39" />
+      <gospel id="476" name="Job" shortname="job" chapter="40" />
+      <gospel id="477" name="Job" shortname="job" chapter="41" />
+      <gospel id="478" name="Job" shortname="job" chapter="42" />
+      <gospel id="479" name="Psalms" shortname="ps" chapter="1" />
+      <gospel id="480" name="Psalms" shortname="ps" chapter="2" />
+      <gospel id="481" name="Psalms" shortname="ps" chapter="3" />
+      <gospel id="482" name="Psalms" shortname="ps" chapter="4" />
+      <gospel id="483" name="Psalms" shortname="ps" chapter="5" />
+      <gospel id="484" name="Psalms" shortname="ps" chapter="6" />
+      <gospel id="485" name="Psalms" shortname="ps" chapter="7" />
+      <gospel id="486" name="Psalms" shortname="ps" chapter="8" />
+      <gospel id="487" name="Psalms" shortname="ps" chapter="9" />
+      <gospel id="488" name="Psalms" shortname="ps" chapter="10" />
+      <gospel id="489" name="Psalms" shortname="ps" chapter="11" />
+      <gospel id="490" name="Psalms" shortname="ps" chapter="12" />
+      <gospel id="491" name="Psalms" shortname="ps" chapter="13" />
+      <gospel id="492" name="Psalms" shortname="ps" chapter="14" />
+      <gospel id="493" name="Psalms" shortname="ps" chapter="15" />
+      <gospel id="494" name="Psalms" shortname="ps" chapter="16" />
+      <gospel id="495" name="Psalms" shortname="ps" chapter="17" />
+      <gospel id="496" name="Psalms" shortname="ps" chapter="18" />
+      <gospel id="497" name="Psalms" shortname="ps" chapter="19" />
+      <gospel id="498" name="Psalms" shortname="ps" chapter="20" />
+      <gospel id="499" name="Psalms" shortname="ps" chapter="21" />
+      <gospel id="500" name="Psalms" shortname="ps" chapter="22" />
+      <gospel id="501" name="Psalms" shortname="ps" chapter="23" />
+      <gospel id="502" name="Psalms" shortname="ps" chapter="24" />
+      <gospel id="503" name="Psalms" shortname="ps" chapter="25" />
+      <gospel id="504" name="Psalms" shortname="ps" chapter="26" />
+      <gospel id="505" name="Psalms" shortname="ps" chapter="27" />
+      <gospel id="506" name="Psalms" shortname="ps" chapter="28" />
+      <gospel id="507" name="Psalms" shortname="ps" chapter="29" />
+      <gospel id="508" name="Psalms" shortname="ps" chapter="30" />
+      <gospel id="509" name="Psalms" shortname="ps" chapter="31" />
+      <gospel id="510" name="Psalms" shortname="ps" chapter="32" />
+      <gospel id="511" name="Psalms" shortname="ps" chapter="33" />
+      <gospel id="512" name="Psalms" shortname="ps" chapter="34" />
+      <gospel id="513" name="Psalms" shortname="ps" chapter="35" />
+      <gospel id="514" name="Psalms" shortname="ps" chapter="36" />
+      <gospel id="515" name="Psalms" shortname="ps" chapter="37" />
+      <gospel id="516" name="Psalms" shortname="ps" chapter="38" />
+      <gospel id="517" name="Psalms" shortname="ps" chapter="39" />
+      <gospel id="518" name="Psalms" shortname="ps" chapter="40" />
+      <gospel id="519" name="Psalms" shortname="ps" chapter="41" />
+      <gospel id="520" name="Psalms" shortname="ps" chapter="42" />
+      <gospel id="521" name="Psalms" shortname="ps" chapter="43" />
+      <gospel id="522" name="Psalms" shortname="ps" chapter="44" />
+      <gospel id="523" name="Psalms" shortname="ps" chapter="45" />
+      <gospel id="524" name="Psalms" shortname="ps" chapter="46" />
+      <gospel id="525" name="Psalms" shortname="ps" chapter="47" />
+      <gospel id="526" name="Psalms" shortname="ps" chapter="48" />
+      <gospel id="527" name="Psalms" shortname="ps" chapter="49" />
+      <gospel id="528" name="Psalms" shortname="ps" chapter="50" />
+      <gospel id="529" name="Psalms" shortname="ps" chapter="51" />
+      <gospel id="530" name="Psalms" shortname="ps" chapter="52" />
+      <gospel id="531" name="Psalms" shortname="ps" chapter="53" />
+      <gospel id="532" name="Psalms" shortname="ps" chapter="54" />
+      <gospel id="533" name="Psalms" shortname="ps" chapter="55" />
+      <gospel id="534" name="Psalms" shortname="ps" chapter="56" />
+      <gospel id="535" name="Psalms" shortname="ps" chapter="57" />
+      <gospel id="536" name="Psalms" shortname="ps" chapter="58" />
+      <gospel id="537" name="Psalms" shortname="ps" chapter="59" />
+      <gospel id="538" name="Psalms" shortname="ps" chapter="60" />
+      <gospel id="539" name="Psalms" shortname="ps" chapter="61" />
+      <gospel id="540" name="Psalms" shortname="ps" chapter="62" />
+      <gospel id="541" name="Psalms" shortname="ps" chapter="63" />
+      <gospel id="542" name="Psalms" shortname="ps" chapter="64" />
+      <gospel id="543" name="Psalms" shortname="ps" chapter="65" />
+      <gospel id="544" name="Psalms" shortname="ps" chapter="66" />
+      <gospel id="545" name="Psalms" shortname="ps" chapter="67" />
+      <gospel id="546" name="Psalms" shortname="ps" chapter="68" />
+      <gospel id="547" name="Psalms" shortname="ps" chapter="69" />
+      <gospel id="548" name="Psalms" shortname="ps" chapter="70" />
+      <gospel id="549" name="Psalms" shortname="ps" chapter="71" />
+      <gospel id="550" name="Psalms" shortname="ps" chapter="72" />
+      <gospel id="551" name="Psalms" shortname="ps" chapter="73" />
+      <gospel id="552" name="Psalms" shortname="ps" chapter="74" />
+      <gospel id="553" name="Psalms" shortname="ps" chapter="75" />
+      <gospel id="554" name="Psalms" shortname="ps" chapter="76" />
+      <gospel id="555" name="Psalms" shortname="ps" chapter="77" />
+      <gospel id="556" name="Psalms" shortname="ps" chapter="78" />
+      <gospel id="557" name="Psalms" shortname="ps" chapter="79" />
+      <gospel id="558" name="Psalms" shortname="ps" chapter="80" />
+      <gospel id="559" name="Psalms" shortname="ps" chapter="81" />
+      <gospel id="560" name="Psalms" shortname="ps" chapter="82" />
+      <gospel id="561" name="Psalms" shortname="ps" chapter="83" />
+      <gospel id="562" name="Psalms" shortname="ps" chapter="84" />
+      <gospel id="563" name="Psalms" shortname="ps" chapter="85" />
+      <gospel id="564" name="Psalms" shortname="ps" chapter="86" />
+      <gospel id="565" name="Psalms" shortname="ps" chapter="87" />
+      <gospel id="566" name="Psalms" shortname="ps" chapter="88" />
+      <gospel id="567" name="Psalms" shortname="ps" chapter="89" />
+      <gospel id="568" name="Psalms" shortname="ps" chapter="90" />
+      <gospel id="569" name="Psalms" shortname="ps" chapter="91" />
+      <gospel id="570" name="Psalms" shortname="ps" chapter="92" />
+      <gospel id="571" name="Psalms" shortname="ps" chapter="93" />
+      <gospel id="572" name="Psalms" shortname="ps" chapter="94" />
+      <gospel id="573" name="Psalms" shortname="ps" chapter="95" />
+      <gospel id="574" name="Psalms" shortname="ps" chapter="96" />
+      <gospel id="575" name="Psalms" shortname="ps" chapter="97" />
+      <gospel id="576" name="Psalms" shortname="ps" chapter="98" />
+      <gospel id="577" name="Psalms" shortname="ps" chapter="99" />
+      <gospel id="578" name="Psalms" shortname="ps" chapter="100" />
+      <gospel id="579" name="Psalms" shortname="ps" chapter="101" />
+      <gospel id="580" name="Psalms" shortname="ps" chapter="102" />
+      <gospel id="581" name="Psalms" shortname="ps" chapter="103" />
+      <gospel id="582" name="Psalms" shortname="ps" chapter="104" />
+      <gospel id="583" name="Psalms" shortname="ps" chapter="105" />
+      <gospel id="584" name="Psalms" shortname="ps" chapter="106" />
+      <gospel id="585" name="Psalms" shortname="ps" chapter="107" />
+      <gospel id="586" name="Psalms" shortname="ps" chapter="108" />
+      <gospel id="587" name="Psalms" shortname="ps" chapter="109" />
+      <gospel id="588" name="Psalms" shortname="ps" chapter="110" />
+      <gospel id="589" name="Psalms" shortname="ps" chapter="111" />
+      <gospel id="590" name="Psalms" shortname="ps" chapter="112" />
+      <gospel id="591" name="Psalms" shortname="ps" chapter="113" />
+      <gospel id="592" name="Psalms" shortname="ps" chapter="114" />
+      <gospel id="593" name="Psalms" shortname="ps" chapter="115" />
+      <gospel id="594" name="Psalms" shortname="ps" chapter="116" />
+      <gospel id="595" name="Psalms" shortname="ps" chapter="117" />
+      <gospel id="596" name="Psalms" shortname="ps" chapter="118" />
+      <gospel id="597" name="Psalms" shortname="ps" chapter="119" />
+      <gospel id="598" name="Psalms" shortname="ps" chapter="120" />
+      <gospel id="599" name="Psalms" shortname="ps" chapter="121" />
+      <gospel id="600" name="Psalms" shortname="ps" chapter="122" />
+      <gospel id="601" name="Psalms" shortname="ps" chapter="123" />
+      <gospel id="602" name="Psalms" shortname="ps" chapter="124" />
+      <gospel id="603" name="Psalms" shortname="ps" chapter="125" />
+      <gospel id="604" name="Psalms" shortname="ps" chapter="126" />
+      <gospel id="605" name="Psalms" shortname="ps" chapter="127" />
+      <gospel id="606" name="Psalms" shortname="ps" chapter="128" />
+      <gospel id="607" name="Psalms" shortname="ps" chapter="129" />
+      <gospel id="608" name="Psalms" shortname="ps" chapter="130" />
+      <gospel id="609" name="Psalms" shortname="ps" chapter="131" />
+      <gospel id="610" name="Psalms" shortname="ps" chapter="132" />
+      <gospel id="611" name="Psalms" shortname="ps" chapter="133" />
+      <gospel id="612" name="Psalms" shortname="ps" chapter="134" />
+      <gospel id="613" name="Psalms" shortname="ps" chapter="135" />
+      <gospel id="614" name="Psalms" shortname="ps" chapter="136" />
+      <gospel id="615" name="Psalms" shortname="ps" chapter="137" />
+      <gospel id="616" name="Psalms" shortname="ps" chapter="138" />
+      <gospel id="617" name="Psalms" shortname="ps" chapter="139" />
+      <gospel id="618" name="Psalms" shortname="ps" chapter="140" />
+      <gospel id="619" name="Psalms" shortname="ps" chapter="141" />
+      <gospel id="620" name="Psalms" shortname="ps" chapter="142" />
+      <gospel id="621" name="Psalms" shortname="ps" chapter="143" />
+      <gospel id="622" name="Psalms" shortname="ps" chapter="144" />
+      <gospel id="623" name="Psalms" shortname="ps" chapter="145" />
+      <gospel id="624" name="Psalms" shortname="ps" chapter="146" />
+      <gospel id="625" name="Psalms" shortname="ps" chapter="147" />
+      <gospel id="626" name="Psalms" shortname="ps" chapter="148" />
+      <gospel id="627" name="Psalms" shortname="ps" chapter="149" />
+      <gospel id="628" name="Psalms" shortname="ps" chapter="150" />
+      <gospel id="629" name="Proverbs" shortname="prov" chapter="1" />
+      <gospel id="630" name="Proverbs" shortname="prov" chapter="2" />
+      <gospel id="631" name="Proverbs" shortname="prov" chapter="3" />
+      <gospel id="632" name="Proverbs" shortname="prov" chapter="4" />
+      <gospel id="633" name="Proverbs" shortname="prov" chapter="5" />
+      <gospel id="634" name="Proverbs" shortname="prov" chapter="6" />
+      <gospel id="635" name="Proverbs" shortname="prov" chapter="7" />
+      <gospel id="636" name="Proverbs" shortname="prov" chapter="8" />
+      <gospel id="637" name="Proverbs" shortname="prov" chapter="9" />
+      <gospel id="638" name="Proverbs" shortname="prov" chapter="10" />
+      <gospel id="639" name="Proverbs" shortname="prov" chapter="11" />
+      <gospel id="640" name="Proverbs" shortname="prov" chapter="12" />
+      <gospel id="641" name="Proverbs" shortname="prov" chapter="13" />
+      <gospel id="642" name="Proverbs" shortname="prov" chapter="14" />
+      <gospel id="643" name="Proverbs" shortname="prov" chapter="15" />
+      <gospel id="644" name="Proverbs" shortname="prov" chapter="16" />
+      <gospel id="645" name="Proverbs" shortname="prov" chapter="17" />
+      <gospel id="646" name="Proverbs" shortname="prov" chapter="18" />
+      <gospel id="647" name="Proverbs" shortname="prov" chapter="19" />
+      <gospel id="648" name="Proverbs" shortname="prov" chapter="20" />
+      <gospel id="649" name="Proverbs" shortname="prov" chapter="21" />
+      <gospel id="650" name="Proverbs" shortname="prov" chapter="22" />
+      <gospel id="651" name="Proverbs" shortname="prov" chapter="23" />
+      <gospel id="652" name="Proverbs" shortname="prov" chapter="24" />
+      <gospel id="653" name="Proverbs" shortname="prov" chapter="25" />
+      <gospel id="654" name="Proverbs" shortname="prov" chapter="26" />
+      <gospel id="655" name="Proverbs" shortname="prov" chapter="27" />
+      <gospel id="656" name="Proverbs" shortname="prov" chapter="28" />
+      <gospel id="657" name="Proverbs" shortname="prov" chapter="29" />
+      <gospel id="658" name="Proverbs" shortname="prov" chapter="30" />
+      <gospel id="659" name="Proverbs" shortname="prov" chapter="31" />
+      <gospel id="660" name="Ecclesiastes" shortname="eccl" chapter="1" />
+      <gospel id="661" name="Ecclesiastes" shortname="eccl" chapter="2" />
+      <gospel id="662" name="Ecclesiastes" shortname="eccl" chapter="3" />
+      <gospel id="663" name="Ecclesiastes" shortname="eccl" chapter="4" />
+      <gospel id="664" name="Ecclesiastes" shortname="eccl" chapter="5" />
+      <gospel id="665" name="Ecclesiastes" shortname="eccl" chapter="6" />
+      <gospel id="666" name="Ecclesiastes" shortname="eccl" chapter="7" />
+      <gospel id="667" name="Ecclesiastes" shortname="eccl" chapter="8" />
+      <gospel id="668" name="Ecclesiastes" shortname="eccl" chapter="9" />
+      <gospel id="669" name="Ecclesiastes" shortname="eccl" chapter="10" />
+      <gospel id="670" name="Ecclesiastes" shortname="eccl" chapter="11" />
+      <gospel id="671" name="Ecclesiastes" shortname="eccl" chapter="12" />
+      <gospel id="672" name="Solomon's Song" shortname="song" chapter="1" />
+      <gospel id="673" name="Solomon's Song" shortname="song" chapter="2" />
+      <gospel id="674" name="Solomon's Song" shortname="song" chapter="3" />
+      <gospel id="675" name="Solomon's Song" shortname="song" chapter="4" />
+      <gospel id="676" name="Solomon's Song" shortname="song" chapter="5" />
+      <gospel id="677" name="Solomon's Song" shortname="song" chapter="6" />
+      <gospel id="678" name="Solomon's Song" shortname="song" chapter="7" />
+      <gospel id="679" name="Solomon's Song" shortname="song" chapter="8" />
+      <gospel id="680" name="Isaiah" shortname="isa" chapter="1" />
+      <gospel id="681" name="Isaiah" shortname="isa" chapter="2" />
+      <gospel id="682" name="Isaiah" shortname="isa" chapter="3" />
+      <gospel id="683" name="Isaiah" shortname="isa" chapter="4" />
+      <gospel id="684" name="Isaiah" shortname="isa" chapter="5" />
+      <gospel id="685" name="Isaiah" shortname="isa" chapter="6" />
+      <gospel id="686" name="Isaiah" shortname="isa" chapter="7" />
+      <gospel id="687" name="Isaiah" shortname="isa" chapter="8" />
+      <gospel id="688" name="Isaiah" shortname="isa" chapter="9" />
+      <gospel id="689" name="Isaiah" shortname="isa" chapter="10" />
+      <gospel id="690" name="Isaiah" shortname="isa" chapter="11" />
+      <gospel id="691" name="Isaiah" shortname="isa" chapter="12" />
+      <gospel id="692" name="Isaiah" shortname="isa" chapter="13" />
+      <gospel id="693" name="Isaiah" shortname="isa" chapter="14" />
+      <gospel id="694" name="Isaiah" shortname="isa" chapter="15" />
+      <gospel id="695" name="Isaiah" shortname="isa" chapter="16" />
+      <gospel id="696" name="Isaiah" shortname="isa" chapter="17" />
+      <gospel id="697" name="Isaiah" shortname="isa" chapter="18" />
+      <gospel id="698" name="Isaiah" shortname="isa" chapter="19" />
+      <gospel id="699" name="Isaiah" shortname="isa" chapter="20" />
+      <gospel id="700" name="Isaiah" shortname="isa" chapter="21" />
+      <gospel id="701" name="Isaiah" shortname="isa" chapter="22" />
+      <gospel id="702" name="Isaiah" shortname="isa" chapter="23" />
+      <gospel id="703" name="Isaiah" shortname="isa" chapter="24" />
+      <gospel id="704" name="Isaiah" shortname="isa" chapter="25" />
+      <gospel id="705" name="Isaiah" shortname="isa" chapter="26" />
+      <gospel id="706" name="Isaiah" shortname="isa" chapter="27" />
+      <gospel id="707" name="Isaiah" shortname="isa" chapter="28" />
+      <gospel id="708" name="Isaiah" shortname="isa" chapter="29" />
+      <gospel id="709" name="Isaiah" shortname="isa" chapter="30" />
+      <gospel id="710" name="Isaiah" shortname="isa" chapter="31" />
+      <gospel id="711" name="Isaiah" shortname="isa" chapter="32" />
+      <gospel id="712" name="Isaiah" shortname="isa" chapter="33" />
+      <gospel id="713" name="Isaiah" shortname="isa" chapter="34" />
+      <gospel id="714" name="Isaiah" shortname="isa" chapter="35" />
+      <gospel id="715" name="Isaiah" shortname="isa" chapter="36" />
+      <gospel id="716" name="Isaiah" shortname="isa" chapter="37" />
+      <gospel id="717" name="Isaiah" shortname="isa" chapter="38" />
+      <gospel id="718" name="Isaiah" shortname="isa" chapter="39" />
+      <gospel id="719" name="Isaiah" shortname="isa" chapter="40" />
+      <gospel id="720" name="Isaiah" shortname="isa" chapter="41" />
+      <gospel id="721" name="Isaiah" shortname="isa" chapter="42" />
+      <gospel id="722" name="Isaiah" shortname="isa" chapter="43" />
+      <gospel id="723" name="Isaiah" shortname="isa" chapter="44" />
+      <gospel id="724" name="Isaiah" shortname="isa" chapter="45" />
+      <gospel id="725" name="Isaiah" shortname="isa" chapter="46" />
+      <gospel id="726" name="Isaiah" shortname="isa" chapter="47" />
+      <gospel id="727" name="Isaiah" shortname="isa" chapter="48" />
+      <gospel id="728" name="Isaiah" shortname="isa" chapter="49" />
+      <gospel id="729" name="Isaiah" shortname="isa" chapter="50" />
+      <gospel id="730" name="Isaiah" shortname="isa" chapter="51" />
+      <gospel id="731" name="Isaiah" shortname="isa" chapter="52" />
+      <gospel id="732" name="Isaiah" shortname="isa" chapter="53" />
+      <gospel id="733" name="Isaiah" shortname="isa" chapter="54" />
+      <gospel id="734" name="Isaiah" shortname="isa" chapter="55" />
+      <gospel id="735" name="Isaiah" shortname="isa" chapter="56" />
+      <gospel id="736" name="Isaiah" shortname="isa" chapter="57" />
+      <gospel id="737" name="Isaiah" shortname="isa" chapter="58" />
+      <gospel id="738" name="Isaiah" shortname="isa" chapter="59" />
+      <gospel id="739" name="Isaiah" shortname="isa" chapter="60" />
+      <gospel id="740" name="Isaiah" shortname="isa" chapter="61" />
+      <gospel id="741" name="Isaiah" shortname="isa" chapter="62" />
+      <gospel id="742" name="Isaiah" shortname="isa" chapter="63" />
+      <gospel id="743" name="Isaiah" shortname="isa" chapter="64" />
+      <gospel id="744" name="Isaiah" shortname="isa" chapter="65" />
+      <gospel id="745" name="Isaiah" shortname="isa" chapter="66" />
+      <gospel id="746" name="Jeremiah" shortname="jer" chapter="1" />
+      <gospel id="747" name="Jeremiah" shortname="jer" chapter="2" />
+      <gospel id="748" name="Jeremiah" shortname="jer" chapter="3" />
+      <gospel id="749" name="Jeremiah" shortname="jer" chapter="4" />
+      <gospel id="750" name="Jeremiah" shortname="jer" chapter="5" />
+      <gospel id="751" name="Jeremiah" shortname="jer" chapter="6" />
+      <gospel id="752" name="Jeremiah" shortname="jer" chapter="7" />
+      <gospel id="753" name="Jeremiah" shortname="jer" chapter="8" />
+      <gospel id="754" name="Jeremiah" shortname="jer" chapter="9" />
+      <gospel id="755" name="Jeremiah" shortname="jer" chapter="10" />
+      <gospel id="756" name="Jeremiah" shortname="jer" chapter="11" />
+      <gospel id="757" name="Jeremiah" shortname="jer" chapter="12" />
+      <gospel id="758" name="Jeremiah" shortname="jer" chapter="13" />
+      <gospel id="759" name="Jeremiah" shortname="jer" chapter="14" />
+      <gospel id="760" name="Jeremiah" shortname="jer" chapter="15" />
+      <gospel id="761" name="Jeremiah" shortname="jer" chapter="16" />
+      <gospel id="762" name="Jeremiah" shortname="jer" chapter="17" />
+      <gospel id="763" name="Jeremiah" shortname="jer" chapter="18" />
+      <gospel id="764" name="Jeremiah" shortname="jer" chapter="19" />
+      <gospel id="765" name="Jeremiah" shortname="jer" chapter="20" />
+      <gospel id="766" name="Jeremiah" shortname="jer" chapter="21" />
+      <gospel id="767" name="Jeremiah" shortname="jer" chapter="22" />
+      <gospel id="768" name="Jeremiah" shortname="jer" chapter="23" />
+      <gospel id="769" name="Jeremiah" shortname="jer" chapter="24" />
+      <gospel id="770" name="Jeremiah" shortname="jer" chapter="25" />
+      <gospel id="771" name="Jeremiah" shortname="jer" chapter="26" />
+      <gospel id="772" name="Jeremiah" shortname="jer" chapter="27" />
+      <gospel id="773" name="Jeremiah" shortname="jer" chapter="28" />
+      <gospel id="774" name="Jeremiah" shortname="jer" chapter="29" />
+      <gospel id="775" name="Jeremiah" shortname="jer" chapter="30" />
+      <gospel id="776" name="Jeremiah" shortname="jer" chapter="31" />
+      <gospel id="777" name="Jeremiah" shortname="jer" chapter="32" />
+      <gospel id="778" name="Jeremiah" shortname="jer" chapter="33" />
+      <gospel id="779" name="Jeremiah" shortname="jer" chapter="34" />
+      <gospel id="780" name="Jeremiah" shortname="jer" chapter="35" />
+      <gospel id="781" name="Jeremiah" shortname="jer" chapter="36" />
+      <gospel id="782" name="Jeremiah" shortname="jer" chapter="37" />
+      <gospel id="783" name="Jeremiah" shortname="jer" chapter="38" />
+      <gospel id="784" name="Jeremiah" shortname="jer" chapter="39" />
+      <gospel id="785" name="Jeremiah" shortname="jer" chapter="40" />
+      <gospel id="786" name="Jeremiah" shortname="jer" chapter="41" />
+      <gospel id="787" name="Jeremiah" shortname="jer" chapter="42" />
+      <gospel id="788" name="Jeremiah" shortname="jer" chapter="43" />
+      <gospel id="789" name="Jeremiah" shortname="jer" chapter="44" />
+      <gospel id="790" name="Jeremiah" shortname="jer" chapter="45" />
+      <gospel id="791" name="Jeremiah" shortname="jer" chapter="46" />
+      <gospel id="792" name="Jeremiah" shortname="jer" chapter="47" />
+      <gospel id="793" name="Jeremiah" shortname="jer" chapter="48" />
+      <gospel id="794" name="Jeremiah" shortname="jer" chapter="49" />
+      <gospel id="795" name="Jeremiah" shortname="jer" chapter="50" />
+      <gospel id="796" name="Jeremiah" shortname="jer" chapter="51" />
+      <gospel id="797" name="Jeremiah" shortname="jer" chapter="52" />
+      <gospel id="798" name="Lamentations" shortname="lam" chapter="1" />
+      <gospel id="799" name="Lamentations" shortname="lam" chapter="2" />
+      <gospel id="800" name="Lamentations" shortname="lam" chapter="3" />
+      <gospel id="801" name="Lamentations" shortname="lam" chapter="4" />
+      <gospel id="802" name="Lamentations" shortname="lam" chapter="5" />
+      <gospel id="803" name="Ezekiel" shortname="ezek" chapter="1" />
+      <gospel id="804" name="Ezekiel" shortname="ezek" chapter="2" />
+      <gospel id="805" name="Ezekiel" shortname="ezek" chapter="3" />
+      <gospel id="806" name="Ezekiel" shortname="ezek" chapter="4" />
+      <gospel id="807" name="Ezekiel" shortname="ezek" chapter="5" />
+      <gospel id="808" name="Ezekiel" shortname="ezek" chapter="6" />
+      <gospel id="809" name="Ezekiel" shortname="ezek" chapter="7" />
+      <gospel id="810" name="Ezekiel" shortname="ezek" chapter="8" />
+      <gospel id="811" name="Ezekiel" shortname="ezek" chapter="9" />
+      <gospel id="812" name="Ezekiel" shortname="ezek" chapter="10" />
+      <gospel id="813" name="Ezekiel" shortname="ezek" chapter="11" />
+      <gospel id="814" name="Ezekiel" shortname="ezek" chapter="12" />
+      <gospel id="815" name="Ezekiel" shortname="ezek" chapter="13" />
+      <gospel id="816" name="Ezekiel" shortname="ezek" chapter="14" />
+      <gospel id="817" name="Ezekiel" shortname="ezek" chapter="15" />
+      <gospel id="818" name="Ezekiel" shortname="ezek" chapter="16" />
+      <gospel id="819" name="Ezekiel" shortname="ezek" chapter="17" />
+      <gospel id="820" name="Ezekiel" shortname="ezek" chapter="18" />
+      <gospel id="821" name="Ezekiel" shortname="ezek" chapter="19" />
+      <gospel id="822" name="Ezekiel" shortname="ezek" chapter="20" />
+      <gospel id="823" name="Ezekiel" shortname="ezek" chapter="21" />
+      <gospel id="824" name="Ezekiel" shortname="ezek" chapter="22" />
+      <gospel id="825" name="Ezekiel" shortname="ezek" chapter="23" />
+      <gospel id="826" name="Ezekiel" shortname="ezek" chapter="24" />
+      <gospel id="827" name="Ezekiel" shortname="ezek" chapter="25" />
+      <gospel id="828" name="Ezekiel" shortname="ezek" chapter="26" />
+      <gospel id="829" name="Ezekiel" shortname="ezek" chapter="27" />
+      <gospel id="830" name="Ezekiel" shortname="ezek" chapter="28" />
+      <gospel id="831" name="Ezekiel" shortname="ezek" chapter="29" />
+      <gospel id="832" name="Ezekiel" shortname="ezek" chapter="30" />
+      <gospel id="833" name="Ezekiel" shortname="ezek" chapter="31" />
+      <gospel id="834" name="Ezekiel" shortname="ezek" chapter="32" />
+      <gospel id="835" name="Ezekiel" shortname="ezek" chapter="33" />
+      <gospel id="836" name="Ezekiel" shortname="ezek" chapter="34" />
+      <gospel id="837" name="Ezekiel" shortname="ezek" chapter="35" />
+      <gospel id="838" name="Ezekiel" shortname="ezek" chapter="36" />
+      <gospel id="839" name="Ezekiel" shortname="ezek" chapter="37" />
+      <gospel id="840" name="Ezekiel" shortname="ezek" chapter="38" />
+      <gospel id="841" name="Ezekiel" shortname="ezek" chapter="39" />
+      <gospel id="842" name="Ezekiel" shortname="ezek" chapter="40" />
+      <gospel id="843" name="Ezekiel" shortname="ezek" chapter="41" />
+      <gospel id="844" name="Ezekiel" shortname="ezek" chapter="42" />
+      <gospel id="845" name="Ezekiel" shortname="ezek" chapter="43" />
+      <gospel id="846" name="Ezekiel" shortname="ezek" chapter="44" />
+      <gospel id="847" name="Ezekiel" shortname="ezek" chapter="45" />
+      <gospel id="848" name="Ezekiel" shortname="ezek" chapter="46" />
+      <gospel id="849" name="Ezekiel" shortname="ezek" chapter="47" />
+      <gospel id="850" name="Ezekiel" shortname="ezek" chapter="48" />
+      <gospel id="851" name="Daniel" shortname="dan" chapter="1" />
+      <gospel id="852" name="Daniel" shortname="dan" chapter="2" />
+      <gospel id="853" name="Daniel" shortname="dan" chapter="3" />
+      <gospel id="854" name="Daniel" shortname="dan" chapter="4" />
+      <gospel id="855" name="Daniel" shortname="dan" chapter="5" />
+      <gospel id="856" name="Daniel" shortname="dan" chapter="6" />
+      <gospel id="857" name="Daniel" shortname="dan" chapter="7" />
+      <gospel id="858" name="Daniel" shortname="dan" chapter="8" />
+      <gospel id="859" name="Daniel" shortname="dan" chapter="9" />
+      <gospel id="860" name="Daniel" shortname="dan" chapter="10" />
+      <gospel id="861" name="Daniel" shortname="dan" chapter="11" />
+      <gospel id="862" name="Daniel" shortname="dan" chapter="12" />
+      <gospel id="863" name="Hosea" shortname="hosea" chapter="1" />
+      <gospel id="864" name="Hosea" shortname="hosea" chapter="2" />
+      <gospel id="865" name="Hosea" shortname="hosea" chapter="3" />
+      <gospel id="866" name="Hosea" shortname="hosea" chapter="4" />
+      <gospel id="867" name="Hosea" shortname="hosea" chapter="5" />
+      <gospel id="868" name="Hosea" shortname="hosea" chapter="6" />
+      <gospel id="869" name="Hosea" shortname="hosea" chapter="7" />
+      <gospel id="870" name="Hosea" shortname="hosea" chapter="8" />
+      <gospel id="871" name="Hosea" shortname="hosea" chapter="9" />
+      <gospel id="872" name="Hosea" shortname="hosea" chapter="10" />
+      <gospel id="873" name="Hosea" shortname="hosea" chapter="11" />
+      <gospel id="874" name="Hosea" shortname="hosea" chapter="12" />
+      <gospel id="875" name="Hosea" shortname="hosea" chapter="13" />
+      <gospel id="876" name="Hosea" shortname="hosea" chapter="14" />
+      <gospel id="877" name="Joel" shortname="joel" chapter="1" />
+      <gospel id="878" name="Joel" shortname="joel" chapter="2" />
+      <gospel id="879" name="Joel" shortname="joel" chapter="3" />
+      <gospel id="880" name="Amos" shortname="amos" chapter="1" />
+      <gospel id="881" name="Amos" shortname="amos" chapter="2" />
+      <gospel id="882" name="Amos" shortname="amos" chapter="3" />
+      <gospel id="883" name="Amos" shortname="amos" chapter="4" />
+      <gospel id="884" name="Amos" shortname="amos" chapter="5" />
+      <gospel id="885" name="Amos" shortname="amos" chapter="6" />
+      <gospel id="886" name="Amos" shortname="amos" chapter="7" />
+      <gospel id="887" name="Amos" shortname="amos" chapter="8" />
+      <gospel id="888" name="Amos" shortname="amos" chapter="9" />
+      <gospel id="889" name="Obadiah" shortname="obad" chapter="1" />
+      <gospel id="890" name="Jonah" shortname="jonah" chapter="1" />
+      <gospel id="891" name="Jonah" shortname="jonah" chapter="2" />
+      <gospel id="892" name="Jonah" shortname="jonah" chapter="3" />
+      <gospel id="893" name="Jonah" shortname="jonah" chapter="4" />
+      <gospel id="894" name="Micah" shortname="micah" chapter="1" />
+      <gospel id="895" name="Micah" shortname="micah" chapter="2" />
+      <gospel id="896" name="Micah" shortname="micah" chapter="3" />
+      <gospel id="897" name="Micah" shortname="micah" chapter="4" />
+      <gospel id="898" name="Micah" shortname="micah" chapter="5" />
+      <gospel id="899" name="Micah" shortname="micah" chapter="6" />
+      <gospel id="900" name="Micah" shortname="micah" chapter="7" />
+      <gospel id="901" name="Nahum" shortname="nahum" chapter="1" />
+      <gospel id="902" name="Nahum" shortname="nahum" chapter="2" />
+      <gospel id="903" name="Nahum" shortname="nahum" chapter="3" />
+      <gospel id="904" name="Habakkuk" shortname="hab" chapter="1" />
+      <gospel id="905" name="Habakkuk" shortname="hab" chapter="2" />
+      <gospel id="906" name="Habakkuk" shortname="hab" chapter="3" />
+      <gospel id="907" name="Zephaniah" shortname="zeph" chapter="1" />
+      <gospel id="908" name="Zephaniah" shortname="zeph" chapter="2" />
+      <gospel id="909" name="Zephaniah" shortname="zeph" chapter="3" />
+      <gospel id="910" name="Haggai" shortname="hag" chapter="1" />
+      <gospel id="911" name="Haggai" shortname="hag" chapter="2" />
+      <gospel id="912" name="Zechariah" shortname="zech" chapter="1" />
+      <gospel id="913" name="Zechariah" shortname="zech" chapter="2" />
+      <gospel id="914" name="Zechariah" shortname="zech" chapter="3" />
+      <gospel id="915" name="Zechariah" shortname="zech" chapter="4" />
+      <gospel id="916" name="Zechariah" shortname="zech" chapter="5" />
+      <gospel id="917" name="Zechariah" shortname="zech" chapter="6" />
+      <gospel id="918" name="Zechariah" shortname="zech" chapter="7" />
+      <gospel id="919" name="Zechariah" shortname="zech" chapter="8" />
+      <gospel id="920" name="Zechariah" shortname="zech" chapter="9" />
+      <gospel id="921" name="Zechariah" shortname="zech" chapter="10" />
+      <gospel id="922" name="Zechariah" shortname="zech" chapter="11" />
+      <gospel id="923" name="Zechariah" shortname="zech" chapter="12" />
+      <gospel id="924" name="Zechariah" shortname="zech" chapter="13" />
+      <gospel id="925" name="Zechariah" shortname="zech" chapter="14" />
+      <gospel id="926" name="Malachi" shortname="mal" chapter="1" />
+      <gospel id="927" name="Malachi" shortname="mal" chapter="2" />
+      <gospel id="928" name="Malachi" shortname="mal" chapter="3" />
+      <gospel id="929" name="Malachi" shortname="mal" chapter="4" />
+   </book>
+   <book id="nt" name="New Testament">
+      <gospel id="930" name="Matthew" shortname="matt" chapter="1" />
+      <gospel id="931" name="Matthew" shortname="matt" chapter="2" />
+      <gospel id="932" name="Matthew" shortname="matt" chapter="3" />
+      <gospel id="933" name="Matthew" shortname="matt" chapter="4" />
+      <gospel id="934" name="Matthew" shortname="matt" chapter="5" />
+      <gospel id="935" name="Matthew" shortname="matt" chapter="6" />
+      <gospel id="936" name="Matthew" shortname="matt" chapter="7" />
+      <gospel id="937" name="Matthew" shortname="matt" chapter="8" />
+      <gospel id="938" name="Matthew" shortname="matt" chapter="9" />
+      <gospel id="939" name="Matthew" shortname="matt" chapter="10" />
+      <gospel id="940" name="Matthew" shortname="matt" chapter="11" />
+      <gospel id="941" name="Matthew" shortname="matt" chapter="12" />
+      <gospel id="942" name="Matthew" shortname="matt" chapter="13" />
+      <gospel id="943" name="Matthew" shortname="matt" chapter="14" />
+      <gospel id="944" name="Matthew" shortname="matt" chapter="15" />
+      <gospel id="945" name="Matthew" shortname="matt" chapter="16" />
+      <gospel id="946" name="Matthew" shortname="matt" chapter="17" />
+      <gospel id="947" name="Matthew" shortname="matt" chapter="18" />
+      <gospel id="948" name="Matthew" shortname="matt" chapter="19" />
+      <gospel id="949" name="Matthew" shortname="matt" chapter="20" />
+      <gospel id="950" name="Matthew" shortname="matt" chapter="21" />
+      <gospel id="951" name="Matthew" shortname="matt" chapter="22" />
+      <gospel id="952" name="Matthew" shortname="matt" chapter="23" />
+      <gospel id="953" name="Matthew" shortname="matt" chapter="24" />
+      <gospel id="954" name="Matthew" shortname="matt" chapter="25" />
+      <gospel id="955" name="Matthew" shortname="matt" chapter="26" />
+      <gospel id="956" name="Matthew" shortname="matt" chapter="27" />
+      <gospel id="957" name="Matthew" shortname="matt" chapter="28" />
+      <gospel id="958" name="Mark" shortname="mark" chapter="1" />
+      <gospel id="959" name="Mark" shortname="mark" chapter="2" />
+      <gospel id="960" name="Mark" shortname="mark" chapter="3" />
+      <gospel id="961" name="Mark" shortname="mark" chapter="4" />
+      <gospel id="962" name="Mark" shortname="mark" chapter="5" />
+      <gospel id="963" name="Mark" shortname="mark" chapter="6" />
+      <gospel id="964" name="Mark" shortname="mark" chapter="7" />
+      <gospel id="965" name="Mark" shortname="mark" chapter="8" />
+      <gospel id="966" name="Mark" shortname="mark" chapter="9" />
+      <gospel id="967" name="Mark" shortname="mark" chapter="10" />
+      <gospel id="968" name="Mark" shortname="mark" chapter="11" />
+      <gospel id="969" name="Mark" shortname="mark" chapter="12" />
+      <gospel id="970" name="Mark" shortname="mark" chapter="13" />
+      <gospel id="971" name="Mark" shortname="mark" chapter="14" />
+      <gospel id="972" name="Mark" shortname="mark" chapter="15" />
+      <gospel id="973" name="Mark" shortname="mark" chapter="16" />
+      <gospel id="974" name="Luke" shortname="luke" chapter="1" />
+      <gospel id="975" name="Luke" shortname="luke" chapter="2" />
+      <gospel id="976" name="Luke" shortname="luke" chapter="3" />
+      <gospel id="977" name="Luke" shortname="luke" chapter="4" />
+      <gospel id="978" name="Luke" shortname="luke" chapter="5" />
+      <gospel id="979" name="Luke" shortname="luke" chapter="6" />
+      <gospel id="980" name="Luke" shortname="luke" chapter="7" />
+      <gospel id="981" name="Luke" shortname="luke" chapter="8" />
+      <gospel id="982" name="Luke" shortname="luke" chapter="9" />
+      <gospel id="983" name="Luke" shortname="luke" chapter="10" />
+      <gospel id="984" name="Luke" shortname="luke" chapter="11" />
+      <gospel id="985" name="Luke" shortname="luke" chapter="12" />
+      <gospel id="986" name="Luke" shortname="luke" chapter="13" />
+      <gospel id="987" name="Luke" shortname="luke" chapter="14" />
+      <gospel id="988" name="Luke" shortname="luke" chapter="15" />
+      <gospel id="989" name="Luke" shortname="luke" chapter="16" />
+      <gospel id="990" name="Luke" shortname="luke" chapter="17" />
+      <gospel id="991" name="Luke" shortname="luke" chapter="18" />
+      <gospel id="992" name="Luke" shortname="luke" chapter="19" />
+      <gospel id="993" name="Luke" shortname="luke" chapter="20" />
+      <gospel id="994" name="Luke" shortname="luke" chapter="21" />
+      <gospel id="995" name="Luke" shortname="luke" chapter="22" />
+      <gospel id="996" name="Luke" shortname="luke" chapter="23" />
+      <gospel id="997" name="Luke" shortname="luke" chapter="24" />
+      <gospel id="998" name="John" shortname="john" chapter="1" />
+      <gospel id="999" name="John" shortname="john" chapter="2" />
+      <gospel id="1000" name="John" shortname="john" chapter="3" />
+      <gospel id="1001" name="John" shortname="john" chapter="4" />
+      <gospel id="1002" name="John" shortname="john" chapter="5" />
+      <gospel id="1003" name="John" shortname="john" chapter="6" />
+      <gospel id="1004" name="John" shortname="john" chapter="7" />
+      <gospel id="1005" name="John" shortname="john" chapter="8" />
+      <gospel id="1006" name="John" shortname="john" chapter="9" />
+      <gospel id="1007" name="John" shortname="john" chapter="10" />
+      <gospel id="1008" name="John" shortname="john" chapter="11" />
+      <gospel id="1009" name="John" shortname="john" chapter="12" />
+      <gospel id="1010" name="John" shortname="john" chapter="13" />
+      <gospel id="1011" name="John" shortname="john" chapter="14" />
+      <gospel id="1012" name="John" shortname="john" chapter="15" />
+      <gospel id="1013" name="John" shortname="john" chapter="16" />
+      <gospel id="1014" name="John" shortname="john" chapter="17" />
+      <gospel id="1015" name="John" shortname="john" chapter="18" />
+      <gospel id="1016" name="John" shortname="john" chapter="19" />
+      <gospel id="1017" name="John" shortname="john" chapter="20" />
+      <gospel id="1018" name="John" shortname="john" chapter="21" />
+      <gospel id="1019" name="Acts" shortname="acts" chapter="1" />
+      <gospel id="1020" name="Acts" shortname="acts" chapter="2" />
+      <gospel id="1021" name="Acts" shortname="acts" chapter="3" />
+      <gospel id="1022" name="Acts" shortname="acts" chapter="4" />
+      <gospel id="1023" name="Acts" shortname="acts" chapter="5" />
+      <gospel id="1024" name="Acts" shortname="acts" chapter="6" />
+      <gospel id="1025" name="Acts" shortname="acts" chapter="7" />
+      <gospel id="1026" name="Acts" shortname="acts" chapter="8" />
+      <gospel id="1027" name="Acts" shortname="acts" chapter="9" />
+      <gospel id="1028" name="Acts" shortname="acts" chapter="10" />
+      <gospel id="1029" name="Acts" shortname="acts" chapter="11" />
+      <gospel id="1030" name="Acts" shortname="acts" chapter="12" />
+      <gospel id="1031" name="Acts" shortname="acts" chapter="13" />
+      <gospel id="1032" name="Acts" shortname="acts" chapter="14" />
+      <gospel id="1033" name="Acts" shortname="acts" chapter="15" />
+      <gospel id="1034" name="Acts" shortname="acts" chapter="16" />
+      <gospel id="1035" name="Acts" shortname="acts" chapter="17" />
+      <gospel id="1036" name="Acts" shortname="acts" chapter="18" />
+      <gospel id="1037" name="Acts" shortname="acts" chapter="19" />
+      <gospel id="1038" name="Acts" shortname="acts" chapter="20" />
+      <gospel id="1039" name="Acts" shortname="acts" chapter="21" />
+      <gospel id="1040" name="Acts" shortname="acts" chapter="22" />
+      <gospel id="1041" name="Acts" shortname="acts" chapter="23" />
+      <gospel id="1042" name="Acts" shortname="acts" chapter="24" />
+      <gospel id="1043" name="Acts" shortname="acts" chapter="25" />
+      <gospel id="1044" name="Acts" shortname="acts" chapter="26" />
+      <gospel id="1045" name="Acts" shortname="acts" chapter="27" />
+      <gospel id="1046" name="Acts" shortname="acts" chapter="28" />
+      <gospel id="1047" name="Romans" shortname="rom" chapter="1" />
+      <gospel id="1048" name="Romans" shortname="rom" chapter="2" />
+      <gospel id="1049" name="Romans" shortname="rom" chapter="3" />
+      <gospel id="1050" name="Romans" shortname="rom" chapter="4" />
+      <gospel id="1051" name="Romans" shortname="rom" chapter="5" />
+      <gospel id="1052" name="Romans" shortname="rom" chapter="6" />
+      <gospel id="1053" name="Romans" shortname="rom" chapter="7" />
+      <gospel id="1054" name="Romans" shortname="rom" chapter="8" />
+      <gospel id="1055" name="Romans" shortname="rom" chapter="9" />
+      <gospel id="1056" name="Romans" shortname="rom" chapter="10" />
+      <gospel id="1057" name="Romans" shortname="rom" chapter="11" />
+      <gospel id="1058" name="Romans" shortname="rom" chapter="12" />
+      <gospel id="1059" name="Romans" shortname="rom" chapter="13" />
+      <gospel id="1060" name="Romans" shortname="rom" chapter="14" />
+      <gospel id="1061" name="Romans" shortname="rom" chapter="15" />
+      <gospel id="1062" name="Romans" shortname="rom" chapter="16" />
+      <gospel id="1063" name="1 Corinthians" shortname="1-cor" chapter="1" />
+      <gospel id="1064" name="1 Corinthians" shortname="1-cor" chapter="2" />
+      <gospel id="1065" name="1 Corinthians" shortname="1-cor" chapter="3" />
+      <gospel id="1066" name="1 Corinthians" shortname="1-cor" chapter="4" />
+      <gospel id="1067" name="1 Corinthians" shortname="1-cor" chapter="5" />
+      <gospel id="1068" name="1 Corinthians" shortname="1-cor" chapter="6" />
+      <gospel id="1069" name="1 Corinthians" shortname="1-cor" chapter="7" />
+      <gospel id="1070" name="1 Corinthians" shortname="1-cor" chapter="8" />
+      <gospel id="1071" name="1 Corinthians" shortname="1-cor" chapter="9" />
+      <gospel id="1072" name="1 Corinthians" shortname="1-cor" chapter="10" />
+      <gospel id="1073" name="1 Corinthians" shortname="1-cor" chapter="11" />
+      <gospel id="1074" name="1 Corinthians" shortname="1-cor" chapter="12" />
+      <gospel id="1075" name="1 Corinthians" shortname="1-cor" chapter="13" />
+      <gospel id="1076" name="1 Corinthians" shortname="1-cor" chapter="14" />
+      <gospel id="1077" name="1 Corinthians" shortname="1-cor" chapter="15" />
+      <gospel id="1078" name="1 Corinthians" shortname="1-cor" chapter="16" />
+      <gospel id="1079" name="2 Corinthians" shortname="2-cor" chapter="1" />
+      <gospel id="1080" name="2 Corinthians" shortname="2-cor" chapter="2" />
+      <gospel id="1081" name="2 Corinthians" shortname="2-cor" chapter="3" />
+      <gospel id="1082" name="2 Corinthians" shortname="2-cor" chapter="4" />
+      <gospel id="1083" name="2 Corinthians" shortname="2-cor" chapter="5" />
+      <gospel id="1084" name="2 Corinthians" shortname="2-cor" chapter="6" />
+      <gospel id="1085" name="2 Corinthians" shortname="2-cor" chapter="7" />
+      <gospel id="1086" name="2 Corinthians" shortname="2-cor" chapter="8" />
+      <gospel id="1087" name="2 Corinthians" shortname="2-cor" chapter="9" />
+      <gospel id="1088" name="2 Corinthians" shortname="2-cor" chapter="10" />
+      <gospel id="1089" name="2 Corinthians" shortname="2-cor" chapter="11" />
+      <gospel id="1090" name="2 Corinthians" shortname="2-cor" chapter="12" />
+      <gospel id="1091" name="2 Corinthians" shortname="2-cor" chapter="13" />
+      <gospel id="1092" name="Galatians" shortname="gal" chapter="1" />
+      <gospel id="1093" name="Galatians" shortname="gal" chapter="2" />
+      <gospel id="1094" name="Galatians" shortname="gal" chapter="3" />
+      <gospel id="1095" name="Galatians" shortname="gal" chapter="4" />
+      <gospel id="1096" name="Galatians" shortname="gal" chapter="5" />
+      <gospel id="1097" name="Galatians" shortname="gal" chapter="6" />
+      <gospel id="1098" name="Ephesians" shortname="eph" chapter="1" />
+      <gospel id="1099" name="Ephesians" shortname="eph" chapter="2" />
+      <gospel id="1100" name="Ephesians" shortname="eph" chapter="3" />
+      <gospel id="1101" name="Ephesians" shortname="eph" chapter="4" />
+      <gospel id="1102" name="Ephesians" shortname="eph" chapter="5" />
+      <gospel id="1103" name="Ephesians" shortname="eph" chapter="6" />
+      <gospel id="1104" name="Philippians" shortname="philip" chapter="1" />
+      <gospel id="1105" name="Philippians" shortname="philip" chapter="2" />
+      <gospel id="1106" name="Philippians" shortname="philip" chapter="3" />
+      <gospel id="1107" name="Philippians" shortname="philip" chapter="4" />
+      <gospel id="1108" name="Colossians" shortname="col" chapter="1" />
+      <gospel id="1109" name="Colossians" shortname="col" chapter="2" />
+      <gospel id="1110" name="Colossians" shortname="col" chapter="3" />
+      <gospel id="1111" name="Colossians" shortname="col" chapter="4" />
+      <gospel id="1112" name="1 Thessalonians" shortname="1-thes" chapter="1" />
+      <gospel id="1113" name="1 Thessalonians" shortname="1-thes" chapter="2" />
+      <gospel id="1114" name="1 Thessalonians" shortname="1-thes" chapter="3" />
+      <gospel id="1115" name="1 Thessalonians" shortname="1-thes" chapter="4" />
+      <gospel id="1116" name="1 Thessalonians" shortname="1-thes" chapter="5" />
+      <gospel id="1117" name="2 Thessalonians" shortname="2-thes" chapter="1" />
+      <gospel id="1118" name="2 Thessalonians" shortname="2-thes" chapter="2" />
+      <gospel id="1119" name="2 Thessalonians" shortname="2-thes" chapter="3" />
+      <gospel id="1120" name="1 Timothy" shortname="1-tim" chapter="1" />
+      <gospel id="1121" name="1 Timothy" shortname="1-tim" chapter="2" />
+      <gospel id="1122" name="1 Timothy" shortname="1-tim" chapter="3" />
+      <gospel id="1123" name="1 Timothy" shortname="1-tim" chapter="4" />
+      <gospel id="1124" name="1 Timothy" shortname="1-tim" chapter="5" />
+      <gospel id="1125" name="1 Timothy" shortname="1-tim" chapter="6" />
+      <gospel id="1126" name="2 Timothy" shortname="2-tim" chapter="1" />
+      <gospel id="1127" name="2 Timothy" shortname="2-tim" chapter="2" />
+      <gospel id="1128" name="2 Timothy" shortname="2-tim" chapter="3" />
+      <gospel id="1129" name="2 Timothy" shortname="2-tim" chapter="4" />
+      <gospel id="1130" name="Titus" shortname="titus" chapter="1" />
+      <gospel id="1131" name="Titus" shortname="titus" chapter="2" />
+      <gospel id="1132" name="Titus" shortname="titus" chapter="3" />
+      <gospel id="1133" name="Philemon" shortname="philem" chapter="1" />
+      <gospel id="1134" name="Hebrews" shortname="heb" chapter="1" />
+      <gospel id="1135" name="Hebrews" shortname="heb" chapter="2" />
+      <gospel id="1136" name="Hebrews" shortname="heb" chapter="3" />
+      <gospel id="1137" name="Hebrews" shortname="heb" chapter="4" />
+      <gospel id="1138" name="Hebrews" shortname="heb" chapter="5" />
+      <gospel id="1139" name="Hebrews" shortname="heb" chapter="6" />
+      <gospel id="1140" name="Hebrews" shortname="heb" chapter="7" />
+      <gospel id="1141" name="Hebrews" shortname="heb" chapter="8" />
+      <gospel id="1142" name="Hebrews" shortname="heb" chapter="9" />
+      <gospel id="1143" name="Hebrews" shortname="heb" chapter="10" />
+      <gospel id="1144" name="Hebrews" shortname="heb" chapter="11" />
+      <gospel id="1145" name="Hebrews" shortname="heb" chapter="12" />
+      <gospel id="1146" name="Hebrews" shortname="heb" chapter="13" />
+      <gospel id="1147" name="James" shortname="james" chapter="1" />
+      <gospel id="1148" name="James" shortname="james" chapter="2" />
+      <gospel id="1149" name="James" shortname="james" chapter="3" />
+      <gospel id="1150" name="James" shortname="james" chapter="4" />
+      <gospel id="1151" name="James" shortname="james" chapter="5" />
+      <gospel id="1152" name="1 Peter" shortname="1-pet" chapter="1" />
+      <gospel id="1153" name="1 Peter" shortname="1-pet" chapter="2" />
+      <gospel id="1154" name="1 Peter" shortname="1-pet" chapter="3" />
+      <gospel id="1155" name="1 Peter" shortname="1-pet" chapter="4" />
+      <gospel id="1156" name="1 Peter" shortname="1-pet" chapter="5" />
+      <gospel id="1157" name="2 Peter" shortname="2-pet" chapter="1" />
+      <gospel id="1158" name="2 Peter" shortname="2-pet" chapter="2" />
+      <gospel id="1159" name="2 Peter" shortname="2-pet" chapter="3" />
+      <gospel id="1160" name="1 John" shortname="1-jn" chapter="1" />
+      <gospel id="1161" name="1 John" shortname="1-jn" chapter="2" />
+      <gospel id="1162" name="1 John" shortname="1-jn" chapter="3" />
+      <gospel id="1163" name="1 John" shortname="1-jn" chapter="4" />
+      <gospel id="1164" name="1 John" shortname="1-jn" chapter="5" />
+      <gospel id="1165" name="2 John" shortname="2-jn" chapter="1" />
+      <gospel id="1166" name="3 John" shortname="3-jn" chapter="1" />
+      <gospel id="1167" name="Jude" shortname="jude" chapter="1" />
+      <gospel id="1168" name="Revelation" shortname="rev" chapter="1" />
+      <gospel id="1169" name="Revelation" shortname="rev" chapter="2" />
+      <gospel id="1170" name="Revelation" shortname="rev" chapter="3" />
+      <gospel id="1171" name="Revelation" shortname="rev" chapter="4" />
+      <gospel id="1172" name="Revelation" shortname="rev" chapter="5" />
+      <gospel id="1173" name="Revelation" shortname="rev" chapter="6" />
+      <gospel id="1174" name="Revelation" shortname="rev" chapter="7" />
+      <gospel id="1175" name="Revelation" shortname="rev" chapter="8" />
+      <gospel id="1176" name="Revelation" shortname="rev" chapter="9" />
+      <gospel id="1177" name="Revelation" shortname="rev" chapter="10" />
+      <gospel id="1178" name="Revelation" shortname="rev" chapter="11" />
+      <gospel id="1179" name="Revelation" shortname="rev" chapter="12" />
+      <gospel id="1180" name="Revelation" shortname="rev" chapter="13" />
+      <gospel id="1181" name="Revelation" shortname="rev" chapter="14" />
+      <gospel id="1182" name="Revelation" shortname="rev" chapter="15" />
+      <gospel id="1183" name="Revelation" shortname="rev" chapter="16" />
+      <gospel id="1184" name="Revelation" shortname="rev" chapter="17" />
+      <gospel id="1185" name="Revelation" shortname="rev" chapter="18" />
+      <gospel id="1186" name="Revelation" shortname="rev" chapter="19" />
+      <gospel id="1187" name="Revelation" shortname="rev" chapter="20" />
+      <gospel id="1188" name="Revelation" shortname="rev" chapter="21" />
+      <gospel id="1189" name="Revelation" shortname="rev" chapter="22" />
+   </book>
+   <book id="bofm" name="Book of Mormon">
+      <gospel id="1190" name="1 Nephi" shortname="1-ne" chapter="1" />
+      <gospel id="1191" name="1 Nephi" shortname="1-ne" chapter="2" />
+      <gospel id="1192" name="1 Nephi" shortname="1-ne" chapter="3" />
+      <gospel id="1193" name="1 Nephi" shortname="1-ne" chapter="4" />
+      <gospel id="1194" name="1 Nephi" shortname="1-ne" chapter="5" />
+      <gospel id="1195" name="1 Nephi" shortname="1-ne" chapter="6" />
+      <gospel id="1196" name="1 Nephi" shortname="1-ne" chapter="7" />
+      <gospel id="1197" name="1 Nephi" shortname="1-ne" chapter="8" />
+      <gospel id="1198" name="1 Nephi" shortname="1-ne" chapter="9" />
+      <gospel id="1199" name="1 Nephi" shortname="1-ne" chapter="10" />
+      <gospel id="1200" name="1 Nephi" shortname="1-ne" chapter="11" />
+      <gospel id="1201" name="1 Nephi" shortname="1-ne" chapter="12" />
+      <gospel id="1202" name="1 Nephi" shortname="1-ne" chapter="13" />
+      <gospel id="1203" name="1 Nephi" shortname="1-ne" chapter="14" />
+      <gospel id="1204" name="1 Nephi" shortname="1-ne" chapter="15" />
+      <gospel id="1205" name="1 Nephi" shortname="1-ne" chapter="16" />
+      <gospel id="1206" name="1 Nephi" shortname="1-ne" chapter="17" />
+      <gospel id="1207" name="1 Nephi" shortname="1-ne" chapter="18" />
+      <gospel id="1208" name="1 Nephi" shortname="1-ne" chapter="19" />
+      <gospel id="1209" name="1 Nephi" shortname="1-ne" chapter="20" />
+      <gospel id="1210" name="1 Nephi" shortname="1-ne" chapter="21" />
+      <gospel id="1211" name="1 Nephi" shortname="1-ne" chapter="22" />
+      <gospel id="1212" name="2 Nephi" shortname="2-ne" chapter="1" />
+      <gospel id="1213" name="2 Nephi" shortname="2-ne" chapter="2" />
+      <gospel id="1214" name="2 Nephi" shortname="2-ne" chapter="3" />
+      <gospel id="1215" name="2 Nephi" shortname="2-ne" chapter="4" />
+      <gospel id="1216" name="2 Nephi" shortname="2-ne" chapter="5" />
+      <gospel id="1217" name="2 Nephi" shortname="2-ne" chapter="6" />
+      <gospel id="1218" name="2 Nephi" shortname="2-ne" chapter="7" />
+      <gospel id="1219" name="2 Nephi" shortname="2-ne" chapter="8" />
+      <gospel id="1220" name="2 Nephi" shortname="2-ne" chapter="9" />
+      <gospel id="1221" name="2 Nephi" shortname="2-ne" chapter="10" />
+      <gospel id="1222" name="2 Nephi" shortname="2-ne" chapter="11" />
+      <gospel id="1223" name="2 Nephi" shortname="2-ne" chapter="12" />
+      <gospel id="1224" name="2 Nephi" shortname="2-ne" chapter="13" />
+      <gospel id="1225" name="2 Nephi" shortname="2-ne" chapter="14" />
+      <gospel id="1226" name="2 Nephi" shortname="2-ne" chapter="15" />
+      <gospel id="1227" name="2 Nephi" shortname="2-ne" chapter="16" />
+      <gospel id="1228" name="2 Nephi" shortname="2-ne" chapter="17" />
+      <gospel id="1229" name="2 Nephi" shortname="2-ne" chapter="18" />
+      <gospel id="1230" name="2 Nephi" shortname="2-ne" chapter="19" />
+      <gospel id="1231" name="2 Nephi" shortname="2-ne" chapter="20" />
+      <gospel id="1232" name="2 Nephi" shortname="2-ne" chapter="21" />
+      <gospel id="1233" name="2 Nephi" shortname="2-ne" chapter="22" />
+      <gospel id="1234" name="2 Nephi" shortname="2-ne" chapter="23" />
+      <gospel id="1235" name="2 Nephi" shortname="2-ne" chapter="24" />
+      <gospel id="1236" name="2 Nephi" shortname="2-ne" chapter="25" />
+      <gospel id="1237" name="2 Nephi" shortname="2-ne" chapter="26" />
+      <gospel id="1238" name="2 Nephi" shortname="2-ne" chapter="27" />
+      <gospel id="1239" name="2 Nephi" shortname="2-ne" chapter="28" />
+      <gospel id="1240" name="2 Nephi" shortname="2-ne" chapter="29" />
+      <gospel id="1241" name="2 Nephi" shortname="2-ne" chapter="30" />
+      <gospel id="1242" name="2 Nephi" shortname="2-ne" chapter="31" />
+      <gospel id="1243" name="2 Nephi" shortname="2-ne" chapter="32" />
+      <gospel id="1244" name="2 Nephi" shortname="2-ne" chapter="33" />
+      <gospel id="1245" name="Jacob" shortname="jacob" chapter="1" />
+      <gospel id="1246" name="Jacob" shortname="jacob" chapter="2" />
+      <gospel id="1247" name="Jacob" shortname="jacob" chapter="3" />
+      <gospel id="1248" name="Jacob" shortname="jacob" chapter="4" />
+      <gospel id="1249" name="Jacob" shortname="jacob" chapter="5" />
+      <gospel id="1250" name="Jacob" shortname="jacob" chapter="6" />
+      <gospel id="1251" name="Jacob" shortname="jacob" chapter="7" />
+      <gospel id="1252" name="Enos" shortname="enos" chapter="1" />
+      <gospel id="1253" name="Jarom" shortname="jarom" chapter="1" />
+      <gospel id="1254" name="Omni" shortname="omni" chapter="1" />
+      <gospel id="1255" name="Words of Mormon" shortname="w-of-m" chapter="1" />
+      <gospel id="1256" name="Mosiah" shortname="mosiah" chapter="1" />
+      <gospel id="1257" name="Mosiah" shortname="mosiah" chapter="2" />
+      <gospel id="1258" name="Mosiah" shortname="mosiah" chapter="3" />
+      <gospel id="1259" name="Mosiah" shortname="mosiah" chapter="4" />
+      <gospel id="1260" name="Mosiah" shortname="mosiah" chapter="5" />
+      <gospel id="1261" name="Mosiah" shortname="mosiah" chapter="6" />
+      <gospel id="1262" name="Mosiah" shortname="mosiah" chapter="7" />
+      <gospel id="1263" name="Mosiah" shortname="mosiah" chapter="8" />
+      <gospel id="1264" name="Mosiah" shortname="mosiah" chapter="9" />
+      <gospel id="1265" name="Mosiah" shortname="mosiah" chapter="10" />
+      <gospel id="1266" name="Mosiah" shortname="mosiah" chapter="11" />
+      <gospel id="1267" name="Mosiah" shortname="mosiah" chapter="12" />
+      <gospel id="1268" name="Mosiah" shortname="mosiah" chapter="13" />
+      <gospel id="1269" name="Mosiah" shortname="mosiah" chapter="14" />
+      <gospel id="1270" name="Mosiah" shortname="mosiah" chapter="15" />
+      <gospel id="1271" name="Mosiah" shortname="mosiah" chapter="16" />
+      <gospel id="1272" name="Mosiah" shortname="mosiah" chapter="17" />
+      <gospel id="1273" name="Mosiah" shortname="mosiah" chapter="18" />
+      <gospel id="1274" name="Mosiah" shortname="mosiah" chapter="19" />
+      <gospel id="1275" name="Mosiah" shortname="mosiah" chapter="20" />
+      <gospel id="1276" name="Mosiah" shortname="mosiah" chapter="21" />
+      <gospel id="1277" name="Mosiah" shortname="mosiah" chapter="22" />
+      <gospel id="1278" name="Mosiah" shortname="mosiah" chapter="23" />
+      <gospel id="1279" name="Mosiah" shortname="mosiah" chapter="24" />
+      <gospel id="1280" name="Mosiah" shortname="mosiah" chapter="25" />
+      <gospel id="1281" name="Mosiah" shortname="mosiah" chapter="26" />
+      <gospel id="1282" name="Mosiah" shortname="mosiah" chapter="27" />
+      <gospel id="1283" name="Mosiah" shortname="mosiah" chapter="28" />
+      <gospel id="1284" name="Mosiah" shortname="mosiah" chapter="29" />
+      <gospel id="1285" name="Alma" shortname="alma" chapter="1" />
+      <gospel id="1286" name="Alma" shortname="alma" chapter="2" />
+      <gospel id="1287" name="Alma" shortname="alma" chapter="3" />
+      <gospel id="1288" name="Alma" shortname="alma" chapter="4" />
+      <gospel id="1289" name="Alma" shortname="alma" chapter="5" />
+      <gospel id="1290" name="Alma" shortname="alma" chapter="6" />
+      <gospel id="1291" name="Alma" shortname="alma" chapter="7" />
+      <gospel id="1292" name="Alma" shortname="alma" chapter="8" />
+      <gospel id="1293" name="Alma" shortname="alma" chapter="9" />
+      <gospel id="1294" name="Alma" shortname="alma" chapter="10" />
+      <gospel id="1295" name="Alma" shortname="alma" chapter="11" />
+      <gospel id="1296" name="Alma" shortname="alma" chapter="12" />
+      <gospel id="1297" name="Alma" shortname="alma" chapter="13" />
+      <gospel id="1298" name="Alma" shortname="alma" chapter="14" />
+      <gospel id="1299" name="Alma" shortname="alma" chapter="15" />
+      <gospel id="1300" name="Alma" shortname="alma" chapter="16" />
+      <gospel id="1301" name="Alma" shortname="alma" chapter="17" />
+      <gospel id="1302" name="Alma" shortname="alma" chapter="18" />
+      <gospel id="1303" name="Alma" shortname="alma" chapter="19" />
+      <gospel id="1304" name="Alma" shortname="alma" chapter="20" />
+      <gospel id="1305" name="Alma" shortname="alma" chapter="21" />
+      <gospel id="1306" name="Alma" shortname="alma" chapter="22" />
+      <gospel id="1307" name="Alma" shortname="alma" chapter="23" />
+      <gospel id="1308" name="Alma" shortname="alma" chapter="24" />
+      <gospel id="1309" name="Alma" shortname="alma" chapter="25" />
+      <gospel id="1310" name="Alma" shortname="alma" chapter="26" />
+      <gospel id="1311" name="Alma" shortname="alma" chapter="27" />
+      <gospel id="1312" name="Alma" shortname="alma" chapter="28" />
+      <gospel id="1313" name="Alma" shortname="alma" chapter="29" />
+      <gospel id="1314" name="Alma" shortname="alma" chapter="30" />
+      <gospel id="1315" name="Alma" shortname="alma" chapter="31" />
+      <gospel id="1316" name="Alma" shortname="alma" chapter="32" />
+      <gospel id="1317" name="Alma" shortname="alma" chapter="33" />
+      <gospel id="1318" name="Alma" shortname="alma" chapter="34" />
+      <gospel id="1319" name="Alma" shortname="alma" chapter="35" />
+      <gospel id="1320" name="Alma" shortname="alma" chapter="36" />
+      <gospel id="1321" name="Alma" shortname="alma" chapter="37" />
+      <gospel id="1322" name="Alma" shortname="alma" chapter="38" />
+      <gospel id="1323" name="Alma" shortname="alma" chapter="39" />
+      <gospel id="1324" name="Alma" shortname="alma" chapter="40" />
+      <gospel id="1325" name="Alma" shortname="alma" chapter="41" />
+      <gospel id="1326" name="Alma" shortname="alma" chapter="42" />
+      <gospel id="1327" name="Alma" shortname="alma" chapter="43" />
+      <gospel id="1328" name="Alma" shortname="alma" chapter="44" />
+      <gospel id="1329" name="Alma" shortname="alma" chapter="45" />
+      <gospel id="1330" name="Alma" shortname="alma" chapter="46" />
+      <gospel id="1331" name="Alma" shortname="alma" chapter="47" />
+      <gospel id="1332" name="Alma" shortname="alma" chapter="48" />
+      <gospel id="1333" name="Alma" shortname="alma" chapter="49" />
+      <gospel id="1334" name="Alma" shortname="alma" chapter="50" />
+      <gospel id="1335" name="Alma" shortname="alma" chapter="51" />
+      <gospel id="1336" name="Alma" shortname="alma" chapter="52" />
+      <gospel id="1337" name="Alma" shortname="alma" chapter="53" />
+      <gospel id="1338" name="Alma" shortname="alma" chapter="54" />
+      <gospel id="1339" name="Alma" shortname="alma" chapter="55" />
+      <gospel id="1340" name="Alma" shortname="alma" chapter="56" />
+      <gospel id="1341" name="Alma" shortname="alma" chapter="57" />
+      <gospel id="1342" name="Alma" shortname="alma" chapter="58" />
+      <gospel id="1343" name="Alma" shortname="alma" chapter="59" />
+      <gospel id="1344" name="Alma" shortname="alma" chapter="60" />
+      <gospel id="1345" name="Alma" shortname="alma" chapter="61" />
+      <gospel id="1346" name="Alma" shortname="alma" chapter="62" />
+      <gospel id="1347" name="Alma" shortname="alma" chapter="63" />
+      <gospel id="1348" name="Helaman" shortname="hel" chapter="1" />
+      <gospel id="1349" name="Helaman" shortname="hel" chapter="2" />
+      <gospel id="1350" name="Helaman" shortname="hel" chapter="3" />
+      <gospel id="1351" name="Helaman" shortname="hel" chapter="4" />
+      <gospel id="1352" name="Helaman" shortname="hel" chapter="5" />
+      <gospel id="1353" name="Helaman" shortname="hel" chapter="6" />
+      <gospel id="1354" name="Helaman" shortname="hel" chapter="7" />
+      <gospel id="1355" name="Helaman" shortname="hel" chapter="8" />
+      <gospel id="1356" name="Helaman" shortname="hel" chapter="9" />
+      <gospel id="1357" name="Helaman" shortname="hel" chapter="10" />
+      <gospel id="1358" name="Helaman" shortname="hel" chapter="11" />
+      <gospel id="1359" name="Helaman" shortname="hel" chapter="12" />
+      <gospel id="1360" name="Helaman" shortname="hel" chapter="13" />
+      <gospel id="1361" name="Helaman" shortname="hel" chapter="14" />
+      <gospel id="1362" name="Helaman" shortname="hel" chapter="15" />
+      <gospel id="1363" name="Helaman" shortname="hel" chapter="16" />
+      <gospel id="1364" name="3 Nephi" shortname="3-ne" chapter="1" />
+      <gospel id="1365" name="3 Nephi" shortname="3-ne" chapter="2" />
+      <gospel id="1366" name="3 Nephi" shortname="3-ne" chapter="3" />
+      <gospel id="1367" name="3 Nephi" shortname="3-ne" chapter="4" />
+      <gospel id="1368" name="3 Nephi" shortname="3-ne" chapter="5" />
+      <gospel id="1369" name="3 Nephi" shortname="3-ne" chapter="6" />
+      <gospel id="1370" name="3 Nephi" shortname="3-ne" chapter="7" />
+      <gospel id="1371" name="3 Nephi" shortname="3-ne" chapter="8" />
+      <gospel id="1372" name="3 Nephi" shortname="3-ne" chapter="9" />
+      <gospel id="1373" name="3 Nephi" shortname="3-ne" chapter="10" />
+      <gospel id="1374" name="3 Nephi" shortname="3-ne" chapter="11" />
+      <gospel id="1375" name="3 Nephi" shortname="3-ne" chapter="12" />
+      <gospel id="1376" name="3 Nephi" shortname="3-ne" chapter="13" />
+      <gospel id="1377" name="3 Nephi" shortname="3-ne" chapter="14" />
+      <gospel id="1378" name="3 Nephi" shortname="3-ne" chapter="15" />
+      <gospel id="1379" name="3 Nephi" shortname="3-ne" chapter="16" />
+      <gospel id="1380" name="3 Nephi" shortname="3-ne" chapter="17" />
+      <gospel id="1381" name="3 Nephi" shortname="3-ne" chapter="18" />
+      <gospel id="1382" name="3 Nephi" shortname="3-ne" chapter="19" />
+      <gospel id="1383" name="3 Nephi" shortname="3-ne" chapter="20" />
+      <gospel id="1384" name="3 Nephi" shortname="3-ne" chapter="21" />
+      <gospel id="1385" name="3 Nephi" shortname="3-ne" chapter="22" />
+      <gospel id="1386" name="3 Nephi" shortname="3-ne" chapter="23" />
+      <gospel id="1387" name="3 Nephi" shortname="3-ne" chapter="24" />
+      <gospel id="1388" name="3 Nephi" shortname="3-ne" chapter="25" />
+      <gospel id="1389" name="3 Nephi" shortname="3-ne" chapter="26" />
+      <gospel id="1390" name="3 Nephi" shortname="3-ne" chapter="27" />
+      <gospel id="1391" name="3 Nephi" shortname="3-ne" chapter="28" />
+      <gospel id="1392" name="3 Nephi" shortname="3-ne" chapter="29" />
+      <gospel id="1393" name="3 Nephi" shortname="3-ne" chapter="30" />
+      <gospel id="1394" name="4 Nephi" shortname="4-ne" chapter="1" />
+      <gospel id="1395" name="Mormon" shortname="morm" chapter="1" />
+      <gospel id="1396" name="Mormon" shortname="morm" chapter="2" />
+      <gospel id="1397" name="Mormon" shortname="morm" chapter="3" />
+      <gospel id="1398" name="Mormon" shortname="morm" chapter="4" />
+      <gospel id="1399" name="Mormon" shortname="morm" chapter="5" />
+      <gospel id="1400" name="Mormon" shortname="morm" chapter="6" />
+      <gospel id="1401" name="Mormon" shortname="morm" chapter="7" />
+      <gospel id="1402" name="Mormon" shortname="morm" chapter="8" />
+      <gospel id="1403" name="Mormon" shortname="morm" chapter="9" />
+      <gospel id="1404" name="Ether" shortname="ether" chapter="1" />
+      <gospel id="1405" name="Ether" shortname="ether" chapter="2" />
+      <gospel id="1406" name="Ether" shortname="ether" chapter="3" />
+      <gospel id="1407" name="Ether" shortname="ether" chapter="4" />
+      <gospel id="1408" name="Ether" shortname="ether" chapter="5" />
+      <gospel id="1409" name="Ether" shortname="ether" chapter="6" />
+      <gospel id="1410" name="Ether" shortname="ether" chapter="7" />
+      <gospel id="1411" name="Ether" shortname="ether" chapter="8" />
+      <gospel id="1412" name="Ether" shortname="ether" chapter="9" />
+      <gospel id="1413" name="Ether" shortname="ether" chapter="10" />
+      <gospel id="1414" name="Ether" shortname="ether" chapter="11" />
+      <gospel id="1415" name="Ether" shortname="ether" chapter="12" />
+      <gospel id="1416" name="Ether" shortname="ether" chapter="13" />
+      <gospel id="1417" name="Ether" shortname="ether" chapter="14" />
+      <gospel id="1418" name="Ether" shortname="ether" chapter="15" />
+      <gospel id="1419" name="Moroni" shortname="moro" chapter="1" />
+      <gospel id="1420" name="Moroni" shortname="moro" chapter="2" />
+      <gospel id="1421" name="Moroni" shortname="moro" chapter="3" />
+      <gospel id="1422" name="Moroni" shortname="moro" chapter="4" />
+      <gospel id="1423" name="Moroni" shortname="moro" chapter="5" />
+      <gospel id="1424" name="Moroni" shortname="moro" chapter="6" />
+      <gospel id="1425" name="Moroni" shortname="moro" chapter="7" />
+      <gospel id="1426" name="Moroni" shortname="moro" chapter="8" />
+      <gospel id="1427" name="Moroni" shortname="moro" chapter="9" />
+      <gospel id="1428" name="Moroni" shortname="moro" chapter="10" />
+   </book>
+   <book id="dc-testament" name="Doctrine and Covenants">
+      <gospel id="1429" name="Doctrine and Covenants" shortname="dc" chapter="1" />
+      <gospel id="1430" name="Doctrine and Covenants" shortname="dc" chapter="2" />
+      <gospel id="1431" name="Doctrine and Covenants" shortname="dc" chapter="3" />
+      <gospel id="1432" name="Doctrine and Covenants" shortname="dc" chapter="4" />
+      <gospel id="1433" name="Doctrine and Covenants" shortname="dc" chapter="5" />
+      <gospel id="1434" name="Doctrine and Covenants" shortname="dc" chapter="6" />
+      <gospel id="1435" name="Doctrine and Covenants" shortname="dc" chapter="7" />
+      <gospel id="1436" name="Doctrine and Covenants" shortname="dc" chapter="8" />
+      <gospel id="1437" name="Doctrine and Covenants" shortname="dc" chapter="9" />
+      <gospel id="1438" name="Doctrine and Covenants" shortname="dc" chapter="10" />
+      <gospel id="1439" name="Doctrine and Covenants" shortname="dc" chapter="11" />
+      <gospel id="1440" name="Doctrine and Covenants" shortname="dc" chapter="12" />
+      <gospel id="1441" name="Doctrine and Covenants" shortname="dc" chapter="13" />
+      <gospel id="1442" name="Doctrine and Covenants" shortname="dc" chapter="14" />
+      <gospel id="1443" name="Doctrine and Covenants" shortname="dc" chapter="15" />
+      <gospel id="1444" name="Doctrine and Covenants" shortname="dc" chapter="16" />
+      <gospel id="1445" name="Doctrine and Covenants" shortname="dc" chapter="17" />
+      <gospel id="1446" name="Doctrine and Covenants" shortname="dc" chapter="18" />
+      <gospel id="1447" name="Doctrine and Covenants" shortname="dc" chapter="19" />
+      <gospel id="1448" name="Doctrine and Covenants" shortname="dc" chapter="20" />
+      <gospel id="1449" name="Doctrine and Covenants" shortname="dc" chapter="21" />
+      <gospel id="1450" name="Doctrine and Covenants" shortname="dc" chapter="22" />
+      <gospel id="1451" name="Doctrine and Covenants" shortname="dc" chapter="23" />
+      <gospel id="1452" name="Doctrine and Covenants" shortname="dc" chapter="24" />
+      <gospel id="1453" name="Doctrine and Covenants" shortname="dc" chapter="25" />
+      <gospel id="1454" name="Doctrine and Covenants" shortname="dc" chapter="26" />
+      <gospel id="1455" name="Doctrine and Covenants" shortname="dc" chapter="27" />
+      <gospel id="1456" name="Doctrine and Covenants" shortname="dc" chapter="28" />
+      <gospel id="1457" name="Doctrine and Covenants" shortname="dc" chapter="29" />
+      <gospel id="1458" name="Doctrine and Covenants" shortname="dc" chapter="30" />
+      <gospel id="1459" name="Doctrine and Covenants" shortname="dc" chapter="31" />
+      <gospel id="1460" name="Doctrine and Covenants" shortname="dc" chapter="32" />
+      <gospel id="1461" name="Doctrine and Covenants" shortname="dc" chapter="33" />
+      <gospel id="1462" name="Doctrine and Covenants" shortname="dc" chapter="34" />
+      <gospel id="1463" name="Doctrine and Covenants" shortname="dc" chapter="35" />
+      <gospel id="1464" name="Doctrine and Covenants" shortname="dc" chapter="36" />
+      <gospel id="1465" name="Doctrine and Covenants" shortname="dc" chapter="37" />
+      <gospel id="1466" name="Doctrine and Covenants" shortname="dc" chapter="38" />
+      <gospel id="1467" name="Doctrine and Covenants" shortname="dc" chapter="39" />
+      <gospel id="1468" name="Doctrine and Covenants" shortname="dc" chapter="40" />
+      <gospel id="1469" name="Doctrine and Covenants" shortname="dc" chapter="41" />
+      <gospel id="1470" name="Doctrine and Covenants" shortname="dc" chapter="42" />
+      <gospel id="1471" name="Doctrine and Covenants" shortname="dc" chapter="43" />
+      <gospel id="1472" name="Doctrine and Covenants" shortname="dc" chapter="44" />
+      <gospel id="1473" name="Doctrine and Covenants" shortname="dc" chapter="45" />
+      <gospel id="1474" name="Doctrine and Covenants" shortname="dc" chapter="46" />
+      <gospel id="1475" name="Doctrine and Covenants" shortname="dc" chapter="47" />
+      <gospel id="1476" name="Doctrine and Covenants" shortname="dc" chapter="48" />
+      <gospel id="1477" name="Doctrine and Covenants" shortname="dc" chapter="49" />
+      <gospel id="1478" name="Doctrine and Covenants" shortname="dc" chapter="50" />
+      <gospel id="1479" name="Doctrine and Covenants" shortname="dc" chapter="51" />
+      <gospel id="1480" name="Doctrine and Covenants" shortname="dc" chapter="52" />
+      <gospel id="1481" name="Doctrine and Covenants" shortname="dc" chapter="53" />
+      <gospel id="1482" name="Doctrine and Covenants" shortname="dc" chapter="54" />
+      <gospel id="1483" name="Doctrine and Covenants" shortname="dc" chapter="55" />
+      <gospel id="1484" name="Doctrine and Covenants" shortname="dc" chapter="56" />
+      <gospel id="1485" name="Doctrine and Covenants" shortname="dc" chapter="57" />
+      <gospel id="1486" name="Doctrine and Covenants" shortname="dc" chapter="58" />
+      <gospel id="1487" name="Doctrine and Covenants" shortname="dc" chapter="59" />
+      <gospel id="1488" name="Doctrine and Covenants" shortname="dc" chapter="60" />
+      <gospel id="1489" name="Doctrine and Covenants" shortname="dc" chapter="61" />
+      <gospel id="1490" name="Doctrine and Covenants" shortname="dc" chapter="62" />
+      <gospel id="1491" name="Doctrine and Covenants" shortname="dc" chapter="63" />
+      <gospel id="1492" name="Doctrine and Covenants" shortname="dc" chapter="64" />
+      <gospel id="1493" name="Doctrine and Covenants" shortname="dc" chapter="65" />
+      <gospel id="1494" name="Doctrine and Covenants" shortname="dc" chapter="66" />
+      <gospel id="1495" name="Doctrine and Covenants" shortname="dc" chapter="67" />
+      <gospel id="1496" name="Doctrine and Covenants" shortname="dc" chapter="68" />
+      <gospel id="1497" name="Doctrine and Covenants" shortname="dc" chapter="69" />
+      <gospel id="1498" name="Doctrine and Covenants" shortname="dc" chapter="70" />
+      <gospel id="1499" name="Doctrine and Covenants" shortname="dc" chapter="71" />
+      <gospel id="1500" name="Doctrine and Covenants" shortname="dc" chapter="72" />
+      <gospel id="1501" name="Doctrine and Covenants" shortname="dc" chapter="73" />
+      <gospel id="1502" name="Doctrine and Covenants" shortname="dc" chapter="74" />
+      <gospel id="1503" name="Doctrine and Covenants" shortname="dc" chapter="75" />
+      <gospel id="1504" name="Doctrine and Covenants" shortname="dc" chapter="76" />
+      <gospel id="1505" name="Doctrine and Covenants" shortname="dc" chapter="77" />
+      <gospel id="1506" name="Doctrine and Covenants" shortname="dc" chapter="78" />
+      <gospel id="1507" name="Doctrine and Covenants" shortname="dc" chapter="79" />
+      <gospel id="1508" name="Doctrine and Covenants" shortname="dc" chapter="80" />
+      <gospel id="1509" name="Doctrine and Covenants" shortname="dc" chapter="81" />
+      <gospel id="1510" name="Doctrine and Covenants" shortname="dc" chapter="82" />
+      <gospel id="1511" name="Doctrine and Covenants" shortname="dc" chapter="83" />
+      <gospel id="1512" name="Doctrine and Covenants" shortname="dc" chapter="84" />
+      <gospel id="1513" name="Doctrine and Covenants" shortname="dc" chapter="85" />
+      <gospel id="1514" name="Doctrine and Covenants" shortname="dc" chapter="86" />
+      <gospel id="1515" name="Doctrine and Covenants" shortname="dc" chapter="87" />
+      <gospel id="1516" name="Doctrine and Covenants" shortname="dc" chapter="88" />
+      <gospel id="1517" name="Doctrine and Covenants" shortname="dc" chapter="89" />
+      <gospel id="1518" name="Doctrine and Covenants" shortname="dc" chapter="90" />
+      <gospel id="1519" name="Doctrine and Covenants" shortname="dc" chapter="91" />
+      <gospel id="1520" name="Doctrine and Covenants" shortname="dc" chapter="92" />
+      <gospel id="1521" name="Doctrine and Covenants" shortname="dc" chapter="93" />
+      <gospel id="1522" name="Doctrine and Covenants" shortname="dc" chapter="94" />
+      <gospel id="1523" name="Doctrine and Covenants" shortname="dc" chapter="95" />
+      <gospel id="1524" name="Doctrine and Covenants" shortname="dc" chapter="96" />
+      <gospel id="1525" name="Doctrine and Covenants" shortname="dc" chapter="97" />
+      <gospel id="1526" name="Doctrine and Covenants" shortname="dc" chapter="98" />
+      <gospel id="1527" name="Doctrine and Covenants" shortname="dc" chapter="99" />
+      <gospel id="1528" name="Doctrine and Covenants" shortname="dc" chapter="100" />
+      <gospel id="1529" name="Doctrine and Covenants" shortname="dc" chapter="101" />
+      <gospel id="1530" name="Doctrine and Covenants" shortname="dc" chapter="102" />
+      <gospel id="1531" name="Doctrine and Covenants" shortname="dc" chapter="103" />
+      <gospel id="1532" name="Doctrine and Covenants" shortname="dc" chapter="104" />
+      <gospel id="1533" name="Doctrine and Covenants" shortname="dc" chapter="105" />
+      <gospel id="1534" name="Doctrine and Covenants" shortname="dc" chapter="106" />
+      <gospel id="1535" name="Doctrine and Covenants" shortname="dc" chapter="107" />
+      <gospel id="1536" name="Doctrine and Covenants" shortname="dc" chapter="108" />
+      <gospel id="1537" name="Doctrine and Covenants" shortname="dc" chapter="109" />
+      <gospel id="1538" name="Doctrine and Covenants" shortname="dc" chapter="110" />
+      <gospel id="1539" name="Doctrine and Covenants" shortname="dc" chapter="111" />
+      <gospel id="1540" name="Doctrine and Covenants" shortname="dc" chapter="112" />
+      <gospel id="1541" name="Doctrine and Covenants" shortname="dc" chapter="113" />
+      <gospel id="1542" name="Doctrine and Covenants" shortname="dc" chapter="114" />
+      <gospel id="1543" name="Doctrine and Covenants" shortname="dc" chapter="115" />
+      <gospel id="1544" name="Doctrine and Covenants" shortname="dc" chapter="116" />
+      <gospel id="1545" name="Doctrine and Covenants" shortname="dc" chapter="117" />
+      <gospel id="1546" name="Doctrine and Covenants" shortname="dc" chapter="118" />
+      <gospel id="1547" name="Doctrine and Covenants" shortname="dc" chapter="119" />
+      <gospel id="1548" name="Doctrine and Covenants" shortname="dc" chapter="120" />
+      <gospel id="1549" name="Doctrine and Covenants" shortname="dc" chapter="121" />
+      <gospel id="1550" name="Doctrine and Covenants" shortname="dc" chapter="122" />
+      <gospel id="1551" name="Doctrine and Covenants" shortname="dc" chapter="123" />
+      <gospel id="1552" name="Doctrine and Covenants" shortname="dc" chapter="124" />
+      <gospel id="1553" name="Doctrine and Covenants" shortname="dc" chapter="125" />
+      <gospel id="1554" name="Doctrine and Covenants" shortname="dc" chapter="126" />
+      <gospel id="1555" name="Doctrine and Covenants" shortname="dc" chapter="127" />
+      <gospel id="1556" name="Doctrine and Covenants" shortname="dc" chapter="128" />
+      <gospel id="1557" name="Doctrine and Covenants" shortname="dc" chapter="129" />
+      <gospel id="1558" name="Doctrine and Covenants" shortname="dc" chapter="130" />
+      <gospel id="1559" name="Doctrine and Covenants" shortname="dc" chapter="131" />
+      <gospel id="1560" name="Doctrine and Covenants" shortname="dc" chapter="132" />
+      <gospel id="1561" name="Doctrine and Covenants" shortname="dc" chapter="133" />
+      <gospel id="1562" name="Doctrine and Covenants" shortname="dc" chapter="134" />
+      <gospel id="1563" name="Doctrine and Covenants" shortname="dc" chapter="135" />
+      <gospel id="1564" name="Doctrine and Covenants" shortname="dc" chapter="136" />
+      <gospel id="1565" name="Doctrine and Covenants" shortname="dc" chapter="137" />
+      <gospel id="1566" name="Doctrine and Covenants" shortname="dc" chapter="138" />
+   </book>
+   <book id="pgp" name="Pearl of Great Price">
+      <gospel id="1567" name="Moses" shortname="moses" chapter="1" />
+      <gospel id="1568" name="Moses" shortname="moses" chapter="2" />
+      <gospel id="1569" name="Moses" shortname="moses" chapter="3" />
+      <gospel id="1570" name="Moses" shortname="moses" chapter="4" />
+      <gospel id="1571" name="Moses" shortname="moses" chapter="5" />
+      <gospel id="1572" name="Moses" shortname="moses" chapter="6" />
+      <gospel id="1573" name="Moses" shortname="moses" chapter="7" />
+      <gospel id="1574" name="Moses" shortname="moses" chapter="8" />
+      <gospel id="1575" name="Abraham" shortname="abr" chapter="1" />
+      <gospel id="1576" name="Abraham" shortname="abr" chapter="2" />
+      <gospel id="1577" name="Abraham" shortname="abr" chapter="3" />
+      <gospel id="1578" name="Abraham" shortname="abr" chapter="4" />
+      <gospel id="1579" name="Abraham" shortname="abr" chapter="5" />
+      <gospel id="1580" name="Joseph Smith--Matthew" shortname="js-m" chapter="1" />
+      <gospel id="1581" name="Joseph Smith--History" shortname="js-h" chapter="1" />
+      <gospel id="1582" name="Articles of Faith" shortname="a-of-f" chapter="1" />
+   </book>
+</scripture>

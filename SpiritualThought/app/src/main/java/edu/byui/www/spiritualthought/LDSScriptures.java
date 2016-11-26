@@ -8,16 +8,37 @@ import java.io.EOFException;
 import java.io.IOException;
 
 /**
- * Created by Julian on 11/19/2016.
+ * Class connects to lds.org to get array of strings containing scriptures.
+ *
+ * This class obtains array of strings of url connections tokens, connects to
+ * lds.org and obtains random scripture chapter verses.
+ *
+ * @author Julian Romero
+ * @version 2016.1119
+ * @since 1.0
  */
 
 public class LDSScriptures {
 
+    /**
+     * Method calls Scripture Verses method
+     * @return String Array with lds.org verses.
+     * @throws IOException
+     */
     private String[] LDSScriptures() throws IOException
     {
         return scriptureVerses();
     }
 
+    /**
+     * Method obtains random url tokens for lds.org.
+     *
+     * This method will obtain url tokens to obtain and return array of string
+     * containing verses from random chapter of gospel from lds.org
+     *
+     * @return String Array with lds.org verses.
+     * @throws IOException
+     */
     public String[] scriptureVerses() throws IOException
     {
         GospelLibrary gl = new GospelLibrary();

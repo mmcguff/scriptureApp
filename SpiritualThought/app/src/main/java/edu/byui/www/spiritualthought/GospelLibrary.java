@@ -3,15 +3,32 @@ package edu.byui.www.spiritualthought;
 import java.util.Random;
 
 /**
- * Created by Julian on 11/20/2016.
+ * Class returns random url tokens from lds.org.
+ *
+ * This class uses embedded array of lds.org url tokens and returns a random set.
+ *
+ * @author Julian Romero
+ * @version 2016.1120
+ * @since 1.0
+ *
  */
 
 public class GospelLibrary {
+
+    /**
+     * Method calls Get Library method.
+     * @return String Array of url tokens for lds.org.
+     */
     private String[] GospelLibrary()
     {
         return getLibrary();
     }
 
+    /**
+     * Method creates a url token two-dimensional array and returns one random set.
+     *
+     * @return String Array of lds.org url tokens.
+     */
     public String[] getLibrary() {
         String[][] library = new String[][]
                 {

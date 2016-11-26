@@ -11,9 +11,23 @@ import android.widget.TextView;
 
 import java.io.IOException;
 
+/**
+ * Activity for displaying scripture to user.
+ *
+ * This activity is used for obtaining a random scripture and displaying to user.
+ *
+ * @author Matthew McGuff, Daniel Chunn, Mitchell Harvey, Julian Romero
+ * @version 2016.1125
+ * @since 1.0
+ *
+ */
 public class MainActivity extends AppCompatActivity {
     final String[] scripture = {"Searching..."};
 
+    /**
+     * This method simply throws an exception.
+     * @throws IOException
+     */
     public MainActivity() throws IOException {
     }
 

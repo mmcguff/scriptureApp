@@ -3,11 +3,26 @@ package edu.byui.www.spiritualthought;
 import java.io.IOException;
 import java.util.Random;
 
+/**
+ * Class obtains scripture verse array and returns a random one.
+ *
+ * This class obtains string array of online verses and returns a random verse.
+ *
+ * @author Julian Romero, Daniel Chunn, Mitchell Harvey, Matthew McGuff
+ * @version 2016.11.25
+ * @since 1.0
+ */
 public class ScriptureRef {
     private LDSScriptures verses = new LDSScriptures();
 
     private String[] mScriptures = verses.scriptureVerses();
 
+    /**
+     * This method obtains an array of strings with scriptures.
+     * Throws and exceptions if connection to lds.org fails.
+     *
+     * @throws IOException
+     */
     public ScriptureRef() throws IOException {
     }
     //fields (member variables)
@@ -25,6 +40,11 @@ public class ScriptureRef {
 */
 
     //Methods - actions the object can take
+
+    /**
+     * This method returns random scripture text.
+     * @return String with verses.
+     */
     public String getScripture(){
 
         String scripture;
