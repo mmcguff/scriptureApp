@@ -4,6 +4,7 @@ import android.os.Handler;
 import android.os.Message;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.text.method.ScrollingMovementMethod;
 import android.view.View;
 import android.widget.Button;
 import android.widget.RelativeLayout;
@@ -34,13 +35,16 @@ public class MainActivity extends AppCompatActivity {
     Handler handler = new Handler(){
         @Override
         public void handleMessage(Message msg) {
-            mScriptureTextView.setText(scripture[0]);
+            String[] text = scripture[0].split("\\n");
+            mTitleTextView.setText(text[0]);
+            mScriptureTextView.setText(text[1]);
         }
     };
 
     private ColorWheel mColorWheel = new ColorWheel();
     // Declare our view variables
     private TextView mScriptureTextView;
+    private TextView mTitleTextView;
     private Button mShowScriptureButton;
     private RelativeLayout mRelativeLayout;
 
@@ -51,8 +55,11 @@ public class MainActivity extends AppCompatActivity {
 
         // Assign Views to create member variables.
         mScriptureTextView = (TextView) findViewById(R.id.scriptureTextView);
+        mTitleTextView = (TextView) findViewById(R.id.titleTextView);
         mShowScriptureButton = (Button) findViewById(R.id.showScriptureButton);
         mRelativeLayout = (RelativeLayout) findViewById(R.id.activity_main);
+
+        mScriptureTextView.setMovementMethod(new ScrollingMovementMethod());
 
         View.OnClickListener listener = new View.OnClickListener() {
             @Override
@@ -65,7 +72,7 @@ public class MainActivity extends AppCompatActivity {
                             try {
                                 ScriptureRef mScriptureRef = new ScriptureRef();
                                 scripture[0] = mScriptureRef.getScripture();
-                            } catch (Exception e) {}
+                            } catch (Exception e) {scripture[0]="Connection Error\nInternet Access Required.";}
                         }
                         handler.sendEmptyMessage(0);
                     }
@@ -77,7 +84,6 @@ public class MainActivity extends AppCompatActivity {
                 int color = mColorWheel.getColor();
 
                 //update the screen with our dynamic scripture.
-                mScriptureTextView.setText(scripture[0]);
                 mRelativeLayout.setBackgroundColor(color);
                 mShowScriptureButton.setTextColor(color);
             }
